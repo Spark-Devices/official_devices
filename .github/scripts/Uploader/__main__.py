@@ -61,14 +61,14 @@ for tag in new_tags:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
+                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://sourceforge.net/projects/sparkosofficial/files/" + device + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(json)
 
     os.system("sudo apt install sshpass")
     # os.system("mkdir ~/.ssh/")
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
-    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
-    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
+    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/sparkosofficial/" + device + "/recovery")
+    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/sparkosofficial/" + device + "")
 
     os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
     print("Uploaded")

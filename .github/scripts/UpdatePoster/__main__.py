@@ -30,14 +30,14 @@ from telegram.ext import *
 # Get Secrets from Workflow
 BOT_API = os.environ.get("BOT_API") # Telegram Bot API Token
 TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos and APIs)
-GITHUB_API_USER = "geek0609" # GitHub username of owner of the above token
+GITHUB_API_USER = "spkal01" # GitHub username of owner of the above token
 CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
-banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png" # Direct link to banner
+banner = "https://raw.githubusercontent.com/Spark-Devices/official_devices/spark/banners/latest.jpg" # Direct link to banner
 json_dir = "./API/devices/" # Directory where it should look for JSONs
 timeout = 1 # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
-WEBSITE_DOWNLOAD = "https://pixelos.vercel.app/download/"
-FOOTER_TAGS = "#TeamPixel #PixelOS" # Tags which needs to appear at end of the post
+WEBSITE_DOWNLOAD = "https://spark-os.live/download/"
+FOOTER_TAGS = "#LightTheNight #SparkOS" # Tags which needs to appear at end of the post
 
 UniqueID = "private_download_tag"   # UniqueID can be any parameter contained in the device.json file which is unique to one build which the 
                                     # maintainer must change every update/build.
@@ -105,7 +105,7 @@ def get_updated_device():
 
 # To make the post
 def post_maker(device_info, name):
-    message = "<b>PixelOS for " + device_info["device_display_name"] + " (" + \
+    message = "<b>SparkOS for " + device_info["device_display_name"] + " (" + \
               device_info["device_display_codename"] + ")\n\nVersion:</b> " + device_info["version"]
 
     if device_info["beta"]:
@@ -128,7 +128,7 @@ def post_maker(device_info, name):
         loop -= 1
 
     release_info = json.loads(requests.get(
-        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" + device_info[UniqueID],
+        "https://api.github.com/repos/PixelOS-Releases/SparkOS-releases/releases/tags/" + device_info[UniqueID],
         auth=(GITHUB_API_USER, TOKEN)).content) # information about the release, taken from Private Releases Repository
 
     recovery_file_size = 0
@@ -153,7 +153,7 @@ def post_maker(device_info, name):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
     
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"

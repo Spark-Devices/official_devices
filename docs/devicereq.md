@@ -5,10 +5,8 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 Exceptions **SHOULD** be made by contacting the administration team.
 
-- RemovePackages **MUST NOT** be used.
-
 - The device **MUST** have SELinux Enforcing to release builds. During Beta Stage builds it's allowed to have SELinux Permissive.
 
 - The device **MUST NOT** include any unused props, overlays or packages. This includes, but is not limited to, packages not being built, packages that don't work, obsolete packages, placebo 'tweaks' or any packages that will include unnecessary and/or unwanted features.
 
-- On the encryption, the device **MUST** always have the encryption enabled and enforced as per stock.
+- The device **MUST** always have encryption enabled and enforced as per stock.

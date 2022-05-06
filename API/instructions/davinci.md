@@ -2,7 +2,7 @@
 - Flash recovery (link is above)
 - Download ROM from the link above
 - Reboot to recovery
-- Flash the latest android 11 firmware for your region
+- Flash the latest android 12 firmware for your region
 - Flash ROM zip
 - Format data
 - Reboot and voila!

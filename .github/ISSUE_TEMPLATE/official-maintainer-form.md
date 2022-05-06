@@ -1,8 +1,8 @@
 ---
 name: Official maintainer form
-about: Apply to become an Official maintainer for PixelOS
+about: Apply to become an Official maintainer for SparkOS
 title: New maintainer 
-assignees: [whyredfire, geek0609, bheatleyyy]
+assignees: [spkal01]
 ---
 
 <!--
@@ -55,15 +55,15 @@ Your Telegram username
 ```
 
 ### Link to your XDA thread of unofficial build
-<!-- Before being able to maintainer PixelOS officially, 
+<!-- Before being able to maintainer SparkOS officially, 
 you must have already made an XDA 
 Refer Maintainer Requirements -->
 ```
 Link to where you have posted your build publically.
 ```
 
-### Link to your unofficial PixelOS Build Post other than XDA
-<!-- Before being able to maintainer PixelOS officially, 
+### Link to your unofficial SparkOS Build Post other than XDA
+<!-- Before being able to maintainer SparkOS officially, 
 you must have already made your unofficial build public. 
 Refer Maintainer Requirements -->
 ```

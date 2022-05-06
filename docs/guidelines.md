@@ -8,7 +8,7 @@
 
 * The builds **MUST** be usable 
 
-* Exceptions for some of the requirements maybe made for older phones
+* Exceptions for some of the requirements may be made for older phones
 
 * Your previous work in development will be considered
 

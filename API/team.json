@@ -1,204 +1,156 @@
 {
     "team":[
         {
-            "name" : "Karan Parashar",
-            "github": "whyredfire",
-            "telegram": "whyredfire",
-            "XDA": "https://forum.xda-developers.com/m/whyredfire.11124523/",
-            "role": "Core-Member",
-            "tagline": "No excuses!"
+            "name" : "spkal01",
+            "github": "spkal01",
+            "telegram": "spkal",
+            "XDA": "https://forum.xda-developers.com/m/spkal01.10691747/",
+            "role": "Lead Dev, Founder, Davinci Maintainer",
+            "tagline": "Sooon"
+	},
+        {
+            "name" : "Atharva Agnihotri",
+            "github": "Atharva-Agnihotri7115",
+            "telegram": "Atharva_Agnihotri",
+            "XDA": "https://forum.xda-developers.com/m/atharva_agnihotri.11667619/",
+            "role": "RM6785(Unified) Maintainer",
+            "tagline": "Your Neighbourly Gym Bro"
+	},
+        {
+            "name" : "Rahul Gorai",
+            "github": "RahulGorai0206",
+            "telegram": "RahulGorai",
+            "XDA": "https://forum.xda-developers.com/m/rahulgorai.10545371",
+            "role": "Beryllium, Ginkgo And Willow Maintainer",
+            "tagline": "Me Noob Sar"
         },
         {
-            "name" : "Jasutin",
-            "github": "Kitsunejasutin",
-            "telegram": "tokatsu",
-            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
-            "role": "Core-Member",
-            "tagline": "Nyahalo! Doktah here."
+            "name" : "Semina Alexandru",
+            "github": "alexandrusemina",
+            "telegram": "semialex16",
+            "XDA": "https://forum.xda-developers.com/m/alexandrusemina8.10017700/",
+            "role": "Galaxy A10 A20 A20e A30 A40 Maintainer",
+            "tagline": "Learning every day (literally)"
         },
         {
-            "name" : "Ashwin DS",
-            "github": "geek0609",
-            "telegram": "dsashwin",
-            "XDA": "https://forum.xda-developers.com/m/dsashwin.11355545/",
-            "role": "Core-Member",
-            "tagline": "I make stuff that barely work."
+            "name" : "Krish Walecha",
+            "github": "KrishWalecha",
+            "telegram": "Mxlfunction",
+            "XDA": "https://forum.xda-developers.com/m/krishwalecha098.9120018/" ,
+            "role": "RMX1971 Maintainer",
+            "tagline": "NVM" 
         },
         {
-            "name" : "Mohit Kumar",
-            "github": "98mohitkumar",
-            "telegram": "mohitkek",
-            "XDA": null,
-            "role": "Web Developer",
-            "tagline": "Mohit here, I turn logic into pixels."
+            "name" : "Arya Sarkar",
+            "github": "Arya1230",
+            "telegram": "Arya1230",
+            "XDA": "https://forum.xda-developers.com/m/arya1230.11233085/",
+            "role": "Video Editor, Mojito Maintainer",
+            "tagline": "That Silent Kid"
         },
         {
-            "name" : "Danish",
-            "github": "danyscape",
-            "telegram": "ddvnish",
-            "XDA": null,
-            "role": "Designer",
-            "tagline": "Dream is an illusion."
+            "name" : "dhruvesh",
+            "github": "dhruvesh16",
+            "telegram": "dhruvesh_23",
+            "XDA": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
+            "role": "RMX1921 Maintainer",
+            "tagline": "spkal is pro"
         },
         {
-            "name" : "Sasha McCleary",
-            "github": "SashaMcC",
-            "telegram": "helenius147",
-            "XDA": null,
-            "role": "Administration",
-            "tagline": "Think I'm good haha"
+            "name" : "ChemaF",
+            "github": "chematelegram",
+            "telegram": "chematelegram ",
+            "XDA": "https://forum.xda-developers.com/m/chema_f.4454188/",
+            "role": "Zippo maintainer",
+            "tagline": "Spanish omelette ftw "
         },
         {
-            "name" : "Shivansh Agarwal",
-            "github": "twel12",
-            "telegram": "real_twel12",
-            "XDA": "https://forum.xda-developers.com/m/twel12.11012701/",
-            "role": "PixelOS Founder",
-            "tagline": "I don't know how it works but it just works."
+            "name" : "Anandhasayanan P",
+            "github": "anandhan07",
+            "telegram": "anandhan07x",
+            "XDA": "https://forum.xda-developers.com/m/anandhan07.12119443/",
+            "role": "Vince Maintainer",
+            "tagline": "Error 404"
         },
         {
-            "name" : "Yusuf",
-            "github": "noonlord",
-            "telegram": "Real_Noonlord",
-            "XDA": null,
-            "role": "Pixelish Founder",
-            "tagline": null
+            "name" : "Pranshu Goyal",
+            "github": "datnerdguy",
+            "telegram": "datnerdguy",
+            "XDA": "https://forum.xda-developers.com/m/datnerdguy.12079991/",
+            "role": "Whyred Maintainer",
+            "tagline": "Pancho Friday Hai"
         },
         {
-            "name" : "Adarsh Grewal",
-            "github": "adarshgrewal",
-            "telegram": "grewal",
-            "XDA": null,
-            "role": "Pixelish Founder",
-            "tagline": null
+            "name" : "tribual",
+            "github": "tribual",
+            "telegram": "tribual",
+            "XDA": "https://forum.xda-developers.com/m/tribual.4509295/",
+            "role": "Cepheus (Mi9) Maintainer",
+            "tagline": "new day, new chance"
         },
         {
-            "name" : "Vladislav",
-            "github": "maade69",
-            "telegram": "maade69",
-            "XDA": null,
-            "role": "Ex-Core Member",
-            "tagline": null
+            "name" : "Vitor Leal",
+            "github": "Vitorgl2003",
+            "telegram": "bitortheaddicted",
+            "XDA": "https://forum.xda-developers.com/m/vgl12258.11389833/",
+            "role": "Lavender Maintainer",
+            "tagline": "너무 멀리"
         },
         {
-            "name" : "Alone0316",
-            "github": "Alone0316",
-            "telegram": "Alone0316",
-            "XDA": "https://forum.xda-developers.com/m/alone0316.11913735/",
-            "role": "mido Maintainer",
-            "tagline": null
+            "name" : "P Sambit Kumar",
+            "github": "KangMonkey",
+            "telegram": "thepsambit",
+            "XDA": "https://forum.xda-developers.com/m/kangmonkey.10219211/",
+            "role": "Vayu Maintainer",
+            "tagline": "Chaos, panic & disorder – my work here is done."
         },
         {
-            "name" : "Chethas",
-            "github": "chethazz",
-            "telegram": "chethazz",
-            "XDA": "https://forum.xda-developers.com/m/chethas.10059020/",
-            "role": "violet Maintainer",
-            "tagline": null
+            "name" : "Redcliff",
+            "github": "redcliff-op",
+            "telegram": "redcliffop",
+            "XDA": "https://forum.xda-developers.com/",
+            "role": "Phoenix Maintainer",
+            "tagline": "Device is a 6, this rom is the 9"
         },
         {
-            "name" : "Aryan",
-            "github": "basamaryan",
-            "telegram": "Aryan999",
-            "XDA": null,
-            "role": "sweet Maintainer",
-            "tagline": null
+            "name" : "Niranjan BR",
+            "github": "mrfox2003",
+            "telegram": "mrfox2003",
+            "XDA": "https://forum.xda-developers.com/m/niranjanbaiju.8877003/",
+            "role": "Violet Maintainer",
+            "tagline": "Techenthusiast"
         },
         {
-            "name" : "Vansh",
-            "github": "vansh123456",
-            "telegram": "noobvansh",
-            "XDA": null,
-            "role": "davinci Maintainer",
-            "tagline": "Trying to do better everyday."
+            "name" : "Lowxorx",
+            "github": "Lowxorx",
+            "telegram": "lowxorx",
+            "XDA": "https://forum.xda-developers.com/m/lowxorx.5870340/",
+            "role": "Lmi Maintainer",
+            "tagline": "idk what i'm doing"
         },
         {
-            "name" : "PaperBoy",
-            "github": "sajidshahriar72543",
-            "telegram": null,
-            "XDA": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
-            "role": "beryllium Maintainer",
-            "tagline": "Let PaperBoy's stories kept untold."
+            "name" : "Itachi",
+            "github": "itachiuchiha",
+            "telegram": "KonohaHokage",
+            "XDA": "https://forum.xda-developers.com/m/iitachiuchiha.10920239/",
+            "role": "Begonia Maintainer",
+            "tagline": "Meh."
         },
         {
-            "name" : "cristian",
-            "github": "cristianvaz",
-            "telegram": "cristianvaz",
-            "XDA": "https://forum.xda-developers.com/m/cristianvaz.11729943/",
-            "role": "alioth Maintainer",
-            "tagline": null
+            "name" : "RasyidAlKautsar",
+            "github": "RasyidAlKautsar",
+            "telegram": "RasyidAlKautsar2",
+            "XDA": "https://forum.xda-developers.com",
+            "role": "Mido Maintainer",
+            "tagline": "Me Noob"
         },
         {
-            "name" : "Sugakesshaa",
-            "github": "bheatleyyy",
-            "telegram": "Megalodonzs",
-            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
-            "role": "lisa Maintainer",
-            "tagline": null
-        },
-        {
-            "name" : "kawaaii",
-            "github": "kawaaii",
-            "telegram": "kawaaaaai",
-            "XDA": "https://forum.xda-developers.com/m/hr1d4y4.11390789/",
-            "role": "gauguin Maintainer",
-            "tagline": null
-        },
-        {
-            "name" : "sarthakroy2002",
-            "github": "sarthakroy2002",
-            "telegram": "sarthakroy2002",
-            "XDA": "https://forum.xda-developers.com/m/sarthakroy2002.8126733/",
-            "role": "Realme Monet Maintainer",
-            "tagline": "Ain't I cool"
-        },
-        {
-            "name" : "kardebayan",
-            "github": "kardebayan",
-            "telegram": "kardebayan",
-            "XDA": "https://forum.xda-developers.com/m/kardebayan3.9878693/",
-            "role": "10or G Maintainer",
-            "tagline": null
-        },
-        {
-            "name" : "RayapKun",
-            "github": "RayapKun",
-            "telegram": "whyyraku",
-            "XDA": "https://forum.xda-developers.com/m/rayapkun.12085931/",
-            "role": "juice Maintainer",
-            "tagline": "F2P Gang"
-        },
-	{
-	    "name" : "cyberknight777",
-	    "github" : "cyberknight777",
-	    "telegram" : "cyberknight777",
-	    "XDA": "https://forum.xda-developers.com/m/cyberknight777.11696787/",
-	    "role" : "hotdog/hotdogg Maintainer",
-	    "tagline" : "You gotta do what you gotta do 乁(ツ)ㄏ"
-        },
-        {
-            "name" : "Dennis Murimi",
-            "github": "AndroidHQ254",
-            "telegram": "DennisMurimiWachira",
-            "XDA": "https://forum.xda-developers.com/m/androidhq254.5437788/",
-            "role": "toco Maintainer",
-            "tagline": "Flexing toco!"
-        },
-        {
-            "name" : "Ackerman",
-            "github": "syhhw",
-            "telegram": "hastefrin",
-            "XDA": null,
-            "role": "Ex-vayu Maintainer",
-            "tagline": null
-        },
-        {
-            "name" : "Anoosragh",
-            "github": "ok-ano0s",
-            "telegram": "ok_aNo0s",
-            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
-            "role": "Ex-RMX1941 Maintainer",
-            "tagline": "How does that even work?"
-	}
+            "name" : "Ziad Fekry",
+            "github": "Ziad-Fekry",
+            "telegram": "ZiadFekry",
+            "XDA": "https://forum.xda-developers.com",
+            "role": "Poco F3 Maintainer",
+            "tagline": "life is good"
+         }
     ]
 }
