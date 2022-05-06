@@ -31,7 +31,7 @@ from telegram.ext import *
 BOT_API = os.environ.get("BOT_API") # Telegram Bot API Token
 TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos and APIs)
 GITHUB_API_USER = "spkal01" # GitHub username of owner of the above token
-CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
+CHAT_ID = "-1001520980299" # ID of channel where it needs to post [Requires admin with enough permissions]
 banner = "https://raw.githubusercontent.com/Spark-Devices/official_devices/spark/banners/latest.jpg" # Direct link to banner
 json_dir = "./API/devices/" # Directory where it should look for JSONs
 timeout = 1 # Time out before sending consecutive messages
