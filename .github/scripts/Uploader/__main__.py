@@ -46,7 +46,7 @@ for tag in new_tags:
             os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" + tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
             break
     print("Downloaded")
-    os.chdir(cur_dir + "/SparkOS-releases-public")
+    os.chdir(cur_dir + "/releases-public")
     os.system("gh release create " + str(datetime.date.today()))
     os.system("gh release upload " + str(datetime.date.today()) + " " + cur_dir + "/releases/*.zip")
     os.system("gh release upload " + str(datetime.date.today()) + " " + cur_dir + "/releases/*.img")
