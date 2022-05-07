@@ -128,7 +128,7 @@ def post_maker(device_info, name):
         loop -= 1
 
     release_info = json.loads(requests.get(
-        "https://api.github.com/repos/PixelOS-Releases/SparkOS-releases/releases/tags/" + device_info[UniqueID],
+        "https://api.github.com/repos/PixelOS-Releases/SparkOS-releases/tags/" + device_info[UniqueID],
         auth=(GITHUB_API_USER, TOKEN)).content) # information about the release, taken from Private Releases Repository
 
     recovery_file_size = 0
