@@ -199,15 +199,6 @@
           "active" : true
          },
          {
-          "codename" : "begonia",
-          "codename_alt" : "begonia",
-          "vendor" : "Xiaomi",
-          "model" : "Redmi Note 8 Pro",
-          "maintainer_name" : "Itachi",
-          "frame" : null,
-          "active" : true
-         },
-         {
           "codename" : "vayu",
           "codename_alt" : "vayu/bhima",
           "vendor" : "Xiaomi",
