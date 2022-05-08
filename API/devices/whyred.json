@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Pranshu Goyal",
+            "telegram": "https://t.me/datnerdguy",
+            "github": "https://github.com/datnerdguy"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 5 Pro India/Redmi Note 5",
+    "device_display_codename": "whyred",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/whyred/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
