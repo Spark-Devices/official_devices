@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-davinci-20220507-gapps.zip",
-    "datetime": 1651960527,
-    "size": 1892465365,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-12.3-Official-davinci-20220507-gapps.zip",
-    "filehash": "b2276f14da1fe755e770179c2eb38d23",
-    "id": "b2276f14da1fe755e770179c2eb38d23",
+    "filename": "Spark-12.3-Official-davinci-20220508-gapps.zip",
+    "datetime": 1652001993,
+    "size": 1896671513,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-12.3-Official-davinci-20220508-gapps.zip",
+    "filehash": "dd9ff1d9261cb202ecd2ced8296bf376",
+    "id": "dd9ff1d9261cb202ecd2ced8296bf376",
     "maintainers": [
         {
             "main_maintainer": false,
