@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Vitor Leal",
+            "telegram": "https://t.me/bitortheaddicted",
+            "github": "https://github.com/Vitorgl2003"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 7",
+    "device_display_codename": "lavender",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/lavender/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
