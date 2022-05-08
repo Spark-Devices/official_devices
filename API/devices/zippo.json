@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "ChemaF",
+            "telegram": "https://t.me/chematelegram",
+            "github": "https://github.com/chematelegram"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Lenovo Z6 Pro",
+    "device_display_codename": "zippo",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/zippo/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
