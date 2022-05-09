@@ -143,9 +143,12 @@ def post_maker(device_info, name):
         if asset["name"] == "boot.img" or asset["name"] == "recovery.img":
             recovery_file_size = float(asset["size"]) * 0.00000095367432
             RECOVERY_NAME = asset["name"]
-        elif asset["name"].endswith(".zip"):
+        elif asset["name"].endswith("gapps.zip"):
             ROM_NAME = asset["name"]
-            rom_file_size = float(asset["size"]) * 0.00000000093132
+            gapps_rom_file_size = float(asset["size"]) * 0.00000000093132
+            upload_date = asset["created_at"]
+        elif asset["name"].ends with(".zip"):
+            vanilla_rom_file_size float(asset["size"]) * 0.00000000093132
             upload_date = asset["created_at"]
 
     message = message + "\n<b>Upload Date:</b> " + \
@@ -156,7 +159,7 @@ def post_maker(device_info, name):
     message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
     
     # Download Sizes
-    message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
+    message = message + "<b>Size:</b> " + str(gapps_rom_file_size)[0:4] + "/" + str(vanilla_rom_file_size)[0:4] + "G (Gapps/Vanilla)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
         message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b>\n"
