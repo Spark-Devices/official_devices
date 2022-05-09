@@ -54,7 +54,7 @@ for tag in new_tags:
     ROM_ZIP_NAME = "none"
 
     for file in os.listdir(cur_dir + "/releases/"):
-        if file.endswith(".zip"):
+        if file.endswith("gapps.zip"):
             ROM_ZIP_NAME = file
 
     if OTA:
