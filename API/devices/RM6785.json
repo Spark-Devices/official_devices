@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Atharva Agnihotri",
+            "telegram": "https://t.me/Atharva_Agnihotri",
+            "github": "https://github.com/Atharva-Agnihotri7115"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+    "device_display_codename": "RM6785",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/RM6785/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
