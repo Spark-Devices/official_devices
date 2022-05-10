@@ -159,7 +159,7 @@ def post_maker(device_info, name):
     message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
     
     # Download Sizes
-    message = message + "<b>Size:</b> " + str(gapps_rom_file_size)[0:4] + "/" + str(vanilla_rom_file_size)[0:4] + "G (Gapps/Vanilla)\n"
+    message = message + "<b>Size:</b> " + str(gapps_rom_file_size)[0:4] + "G" + "/" + str(vanilla_rom_file_size)[0:4] + "G (Gapps/Vanilla)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
         message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b>\n"
