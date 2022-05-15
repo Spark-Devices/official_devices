@@ -156,7 +156,7 @@ def post_maker(device_info, name):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"https://www.pling.com/p/1703061/" + "\">Pling</a> | <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"https://www.pling.com/p/1703061/" + "\">Pling</a>\n"
     
     # Download Sizes
     message = message + "<b>Size:</b> " + str(gapps_rom_file_size)[0:4] + "G" + "/" + str(vanilla_rom_file_size)[0:4] + "G (Gapps/Vanilla)\n"
