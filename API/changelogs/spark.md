@@ -1,1 +1,30 @@
-# PlaceHolder
+# Changelog for v12.3 based on may security patch.
+
+- Introduced Expandable volume Panel
+- Introduced new icons for clear all icon styles 
+- Added a face unlock animation 
+- Addressed some npes and crashes
+- Improved app lock
+- Introduced hidden apps
+- Introduced Mac adress firewall
+- Forward ported custom clock styles to a12
+- Speeded up some animations
+- Revamped SettingsUI
+- Added support for application downgrade and for ignoring window restrictions 
+- Added a toggle for color coded battery indication
+- Introduced smart charging
+- Added a toggle to select battery stats provider 
+- Added a button to reset battery stats
+- Added capability to allow tethering to use VPN Upstream
+- Introduced gmscompat for vanilla users
+- Imported many performance tweaks and optimizations from ProtonAosp
+- Updated PixelPropsUtils
+- Made Light theme be completely light  instead of dual tone
+- Introduced an option to select qs transparency
+- Force enabled vibration icon to show on ls
+- Merged new Translations
+- Switched to our SparkLauncher based on launcher3
+- Added the ability to use custom themed icons 
+- Introduced Monet coloring from pixel
+- Introduced OTA Updater 
+- Introduced our very own spark recovery
