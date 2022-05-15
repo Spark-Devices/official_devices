@@ -206,6 +206,24 @@
           "maintainer_name" : "KangMonkey",
           "frame" : null,
           "active" : true
+         },
+         {
+          "codename" : "miatoll",
+          "codename_alt" : "miatoll",
+          "vendor" : "Xiaomi",
+          "model" : "Miatoll",
+          "maintainer_name" : "popoASM",
+          "frame" : null,
+          "active" : true
+         },
+         {
+          "codename" : "olivewood",
+          "codename_alt" : "olivewood",
+          "vendor" : "Xiaomi",
+          "model" : "Redmi 8a Dual",
+          "maintainer_name" : "JaswalAshish",
+          "frame" : null,
+          "active" : true
          }
     ]
 }
