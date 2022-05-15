@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "JaswalAshish",
+            "telegram": "https://t.me/jaswal_ashish",
+            "github": "https://github.com/JaswalAshish"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi 8A Dual",
+    "device_display_codename": "olivewood",
+    "public_download": "https://forum.xda-developers.com/m/ashish11948.11817917/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
