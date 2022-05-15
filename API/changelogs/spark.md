@@ -1,5 +1,6 @@
-# Changelog for v12.3 based on may security patch.
+# Version 12.3
 
+- Merged may security patch
 - Introduced Expandable volume Panel
 - Introduced new icons for clear all icon styles 
 - Added a face unlock animation 
