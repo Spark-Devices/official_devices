@@ -143,6 +143,22 @@
             "XDA": "https://forum.xda-developers.com",
             "role": "Poco F3 Maintainer",
             "tagline": "life is good"
+         },
+         {
+            "name" : "popoASM",
+            "github": "popoA3M",
+            "telegram": "popoASM",
+            "XDA": "https://forum.xda-developers.com",
+            "role": "Miatoll Maintainer",
+            "tagline": "Hola"
+         },
+         {
+            "name" : "JaswalAshish",
+            "github": "JaswalAshish",
+            "telegram": "jaswal_ashish",
+            "XDA": "https://forum.xda-developers.com/m/ashish11948.11817917/",
+            "role": "olivewood Maintainer",
+            "tagline": "Dope Kid No Fear"
          }
     ]
 }
