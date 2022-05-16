@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-RMX1921-20220516-gapps.zip",
+    "datetime": 1652703511,
+    "size": 1802099092,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX1921/Spark-12.3-Official-RMX1921-20220516-gapps.zip",
+    "filehash": "6986e59600d33ff3232e0ab86653db0b",
+    "id": "6986e59600d33ff3232e0ab86653db0b",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "dhruvesh16",
+            "name": "Dhruvesh"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
