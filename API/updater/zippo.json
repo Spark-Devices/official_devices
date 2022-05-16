@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-zippo-20220516-gapps.zip",
+    "datetime": 1652660212,
+    "size": 1782029587,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-12.3-Official-zippo-20220516-gapps.zip",
+    "filehash": "1cc04bc3bec7501bc6492e5efabb1669",
+    "id": "1cc04bc3bec7501bc6492e5efabb1669",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "chematelegram",
+            "name": "ChemaF"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
