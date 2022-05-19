@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-olivewood-20220519-gapps.zip",
+    "datetime": 1652967374,
+    "size": 1621085316,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/olivewood/Spark-12.3-Official-olivewood-20220519-gapps.zip",
+    "filehash": "c44819e26d749926729712d96c9b3fa8",
+    "id": "c44819e26d749926729712d96c9b3fa8",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "JaswalAshish",
+            "name": "JaswalAshish"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
