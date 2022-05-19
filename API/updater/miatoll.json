@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-miatoll-20220519-gapps.zip",
+    "datetime": 1652954913,
+    "size": 1898899987,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/Spark-12.3-Official-miatoll-20220519-gapps.zip",
+    "filehash": "4c792b1ae5e82800bb9429cdefb57758",
+    "id": "4c792b1ae5e82800bb9429cdefb57758",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "popoA3M",
+            "name": "popoASM"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
