@@ -1,3 +1,4 @@
+# 16th May 2022
 - Update blobs from Miui 13.0.4.0
 - Add missing nqnfcinfo prebuilt
 - AAC frame control enabled for hal implementation.
