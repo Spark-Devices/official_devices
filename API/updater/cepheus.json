@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-cepheus-20220520-gapps.zip",
+    "datetime": 1653054720,
+    "size": 2023958095,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-12.3-Official-cepheus-20220520-gapps.zip",
+    "filehash": "2fc86ca8651d2a405fe0805233f062a6",
+    "id": "2fc86ca8651d2a405fe0805233f062a6",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "tribual",
+            "name": "tribual"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
