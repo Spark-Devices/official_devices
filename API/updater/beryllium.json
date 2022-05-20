@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-beryllium-20220520-gapps.zip",
+    "datetime": 1653041517,
+    "size": 1597288174,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/beryllium/Spark-12.3-Official-beryllium-20220520-gapps.zip",
+    "filehash": "9b5d9827dbdca9e8a0c023d7b47a2e2b",
+    "id": "9b5d9827dbdca9e8a0c023d7b47a2e2b",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "RahulGorai0206",
+            "name": "Rahul Gorai"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
