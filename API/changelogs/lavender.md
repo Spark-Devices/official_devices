@@ -1,0 +1,65 @@
+# 22-May-2022
+
+- gps: New configs for better stability & accuracy
+- usb: Add basic USB HAL that reports no status change
+- props: Don't write binary XML files
+- Flatten APEXs for performance
+- Create CneApp symlinks
+- init: Apply aggressive write caching.
+- enable media performance class 12
+- overlay: add A12 native gaming mode support
+- Set VENDOR_SECURITY_PATCH to platform
+- Enable real time lockscreen charging current values
+- boot: shorten wait time to optimize shutdown time
+- Enable IORap prefetching
+- overlay: Make the UI smoother
+- Update config_ims_rcs_package to use new ImsService
+- Override config for platform number verification
+- init: Setup all the sub-system as related.
+- Set vendor.post_boot.parsed=1
+- rootdir: Boost performance during bootup
+- init: Reset default schedtune boost value on boot
+- fstab: Enable discard option to retain speed.
+- Prepare to move to in-tree HALs
+- qcom-caf: display: Revert "hwc: Set ioprio for vsync thread"
+- qcom-caf: display: Exclude libqservice from binder interface
+- dsds: restart qcrild on data switch
+- Add vndservicemanager explicitly
+- Set up USB Properties
+- Add ro.hw_timeout_multiplier
+- init: restart qcrild on decryption
+- Fix screen recorder lag
+- overlay: Enable Smart Charging
+- Consolidate smart charging under 'Adaptive Charging'
+- rootdir: Add offline charging LED indicator
+- fstab: Enable 64-bit inode version support for ext4
+- props: enable persist.rcs.supported
+- Build additional Pixel stuffs - Time to let Google handle CarrierSettings
+- Allow boot color propagation
+- sepolicy: Fix userspace_reboot prop denials
+- sepolicy: Address denials regarding to access sysfs_kgsl
+- sepolicy: Address bootanim denial
+- rootdir: Enable sys.use_fifo_ui prop if EAS is present
+- prop: Use HintManager for HWU
+- init: workaround SafetyNet check
+- init: Update Magisk Hide props from Magisk v23.0
+- init: Spoof build tags to release-keys
+- props: Fix display animation while AOD on/off screen
+- Import fm blobs from jasmine V11.0.28.0.QDIMIXM
+- DeviceSettings: Add dynamic thermal profile implementation
+- AOD: Decouple suspend from screen state
+- overlay: Enable haptic text cursor
+- overlay: Enable Carrier ViLTE
+- sepolicy: Allow every app to read camera props
+- overlay: Enable display burn-in-protection in Ambient Display
+- Whitelist/Permissions: Add permissions for additional Carrier Settings support
+- Drop Atrace Hal
+- Revert some wrong checkouts
+- Add prebuilt support for Google Dialer Call recording
+- prop: recovery: Disable Possible Overrides from Source
+- sepolicy: Implement extension for kernelspace battery saver
+- sepolicy: Fix up libperfmgr crash on logs
+- Build graphics.allocator@3.0 and 4.0
+- Enable blur related's
+- Add advance logcat debugging
+- Powerhint improvements
