@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-phoenix-20220521-gapps.zip",
+    "datetime": 1653121155,
+    "size": 1810221756,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/phoenix/Spark-12.3-Official-phoenix-20220521-gapps.zip",
+    "filehash": "9386de18a87c1e0d6e21f266ec82cedc",
+    "id": "9386de18a87c1e0d6e21f266ec82cedc",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "redcliff-op",
+            "name": "Redcliff"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
