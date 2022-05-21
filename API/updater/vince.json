@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-vince-20220521-gapps.zip",
+    "datetime": 1653120868,
+    "size": 1354326815,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-12.3-Official-vince-20220521-gapps.zip",
+    "filehash": "9eb01208bae40b5fcf04281542079ff2",
+    "id": "9eb01208bae40b5fcf04281542079ff2",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "anandhan07",
+            "name": "Anandhasayanan P"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
