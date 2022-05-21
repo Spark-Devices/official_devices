@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-lavender-20220520-gapps.zip",
+    "datetime": 1653074192,
+    "size": 1656390830,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/lavender/Spark-12.3-Official-lavender-20220520-gapps.zip",
+    "filehash": "11b1dff5629b30a1f024928842eb6afc",
+    "id": "11b1dff5629b30a1f024928842eb6afc",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Vitorgl2003",
+            "name": "Vitor Leal"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
