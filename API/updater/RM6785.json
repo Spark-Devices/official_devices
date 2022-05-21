@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-RM6785-20220521-gapps.zip",
+    "datetime": 1653133403,
+    "size": 1708325654,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/RM6785/Spark-12.3-Official-RM6785-20220521-gapps.zip",
+    "filehash": "359c33f810c4dfd1d2536aada48385d0",
+    "id": "359c33f810c4dfd1d2536aada48385d0",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Atharva-Agnihotri7115",
+            "name": "Atharva Agnihotri"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
