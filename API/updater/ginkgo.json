@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-ginkgo-20220523-gapps.zip",
+    "datetime": 1653334761,
+    "size": 1616239308,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/ginkgo/Spark-12.3-Official-ginkgo-20220523-gapps.zip",
+    "filehash": "c123b1d4db5baf9864061fdb54f4d154",
+    "id": "c123b1d4db5baf9864061fdb54f4d154",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "RahulGorai0206",
+            "name": "Rahul Gorai"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
