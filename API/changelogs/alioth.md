@@ -1,3 +1,7 @@
+# 25th May 2022
+- Removed advanced refresh rate tile (causes boot loop)
+- Reduced flickering as much as possible 
+
 # 16th May 2022
 - Update blobs from Miui 13.0.4.0
 - Add missing nqnfcinfo prebuilt
