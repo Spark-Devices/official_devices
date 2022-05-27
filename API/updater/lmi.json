@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-lmi-20220526-gapps.zip",
+    "datetime": 1653599850,
+    "size": 2057327591,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-12.3-Official-lmi-20220526-gapps.zip",
+    "filehash": "6df08201fd1d7d3bda5595e3faf069d9",
+    "id": "6df08201fd1d7d3bda5595e3faf069d9",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Lowxorx",
+            "name": "Lowxorx"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
