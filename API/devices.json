@@ -223,7 +223,7 @@
           "model" : "Redmi 8a Dual",
           "maintainer_name" : "JaswalAshish",
           "frame" : null,
-          "active" : true
+          "active" : false
          }
     ]
 }
