@@ -224,6 +224,15 @@
           "maintainer_name" : "JaswalAshish",
           "frame" : null,
           "active" : false
+         },
+         {
+          "codename" : "lemonkebab",
+          "codename_alt" : "lemonkebab",
+          "vendor" : "OnePlus",
+          "model" : "OnePlus 8T/9R",
+          "maintainer_name" : "Pyrtle93",
+          "frame" : null,
+          "active" : true
          }
     ]
 }
