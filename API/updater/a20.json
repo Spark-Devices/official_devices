@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "12",
+    "filename": "Spark-12.3-Official-a20-20220602-gapps.zip",
+    "datetime": 1654172997,
+    "size": 1457869396,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/a20/Spark-12.3-Official-a20-20220602-gapps.zip",
+    "filehash": "95949b27d6b600b8ce1cbc3441ef2cf4",
+    "id": "95949b27d6b600b8ce1cbc3441ef2cf4",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "alexandrusemina",
+            "name": "Semina Alexandru"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
