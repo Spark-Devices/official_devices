@@ -159,6 +159,14 @@
             "XDA": "https://forum.xda-developers.com/m/axxpyrtlexx20.5392313/",
             "role": " Lemonkebab Maintainer",
             "tagline": "Noob"
-          }
+          },
+          {
+            "name" : "Matt Filetto",
+            "github": "Albinoman887",
+            "telegram": "Albinoman887",
+            "XDA": "https://forum.xda-developers.com/m/albinoman887.3322708/",
+            "role": "Raven Maintainer",
+            "tagline": "Debugger in Chief"
+           }
     ]
 }
