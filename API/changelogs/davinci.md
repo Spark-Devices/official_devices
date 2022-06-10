@@ -1,3 +1,11 @@
+# 10-June-2022
+- Switched to erofs
+- Added moto Dolby and dirac
+- Imported auto brightness values from pixel 5
+- Added more popup sounds 
+- Switched to pg clang 
+- Upstreamed kernel
+
 # 15-May-2022
 - Switched to source built Vantom kernel built with neutron clang
 - Introduced smart charging
