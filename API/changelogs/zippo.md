@@ -1,3 +1,12 @@
+# 10-Jun-2022
+- Enable haptics for text cursor
+- Address Soter denials
+- Add missing deviceInfoServiceModule
+- Modify automatic brightness
+- Add BOARD_HAS_QCA_FM_SOC cflag
+- Add missing FM prop
+- Merge changes from CAF in kernel
+
 # 16-May-2022
 - Support multiple levels of vibration intensity
 - Don't pin launcher app and updatable media in memory
