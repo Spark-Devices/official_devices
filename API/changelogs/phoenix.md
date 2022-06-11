@@ -1,3 +1,11 @@
+# 11th June 2022
+rootdir: Add recovery partition to fstab
+Kernel changes -
+ - Merge LA.UM.9.1.r1-11900.02-SMxxx0.QSSI12.0
+ - techpack/codecs: aac: Hardcode max_bitrate to 384k
+ - techpack: use power efficient workingqueues
+ - techpack: avoid VLA
+
 # 16th May 2022
 
 Enable UI Blur ( if enabled, keep min and max refresh rate both at 120hz for best experience )
