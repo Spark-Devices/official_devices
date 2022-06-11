@@ -6,6 +6,7 @@
 - Fixed battery icon.
 - Fixed Clock icon
 - Fixed DTW.
+- Fixed QS pannel lag
 - Improved UI smoothness.
 - Improved Game mode optimizations.
 - Dropped Dirac Support.
