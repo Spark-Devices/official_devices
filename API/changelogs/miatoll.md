@@ -1,3 +1,7 @@
+# 10-June-2022
+- Disable QCOM system daemon
+- Misc fixes and improvements in trees
+
 # 19-May-2022
 - May security patch
 - Updated GcamGo from ArrowOS git 
