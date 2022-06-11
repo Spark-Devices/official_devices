@@ -1,3 +1,17 @@
+# 12-June-2022
+
+- June Security patch.
+- Added new Battery friendly Pocket Mode.
+- Added Fps info Tile.
+- Fixed battery icon.
+- Fixed Clock icon
+- Fixed DTW.
+- Improved UI smoothness.
+- Improved Game mode optimizations.
+- Dropped Dirac Support.
+
+
+
 # 20-May-2022
 
 - May Security patch.
