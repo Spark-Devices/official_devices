@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-phoenix-20220521-gapps.zip",
-    "datetime": 1653121155,
-    "size": 1810221756,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/phoenix/Spark-12.3-Official-phoenix-20220521-gapps.zip",
-    "filehash": "9386de18a87c1e0d6e21f266ec82cedc",
-    "id": "9386de18a87c1e0d6e21f266ec82cedc",
+    "filename": "Spark-12.4-Official-phoenix-20220611-gapps.zip",
+    "datetime": 1654919249,
+    "size": 1813248121,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/phoenix/Spark-12.4-Official-phoenix-20220611-gapps.zip",
+    "filehash": "b6f8d8882bb06cf42865595f7154262e",
+    "id": "b6f8d8882bb06cf42865595f7154262e",
     "maintainers": [
         {
             "main_maintainer": false,
