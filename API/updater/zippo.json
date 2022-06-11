@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-zippo-20220516-gapps.zip",
-    "datetime": 1652660212,
-    "size": 1782029587,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-12.3-Official-zippo-20220516-gapps.zip",
-    "filehash": "1cc04bc3bec7501bc6492e5efabb1669",
-    "id": "1cc04bc3bec7501bc6492e5efabb1669",
+    "filename": "Spark-12.4-Official-zippo-20220611-gapps.zip",
+    "datetime": 1654923056,
+    "size": 1795193848,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-12.4-Official-zippo-20220611-gapps.zip",
+    "filehash": "baa112609cb081007d50496bf1b4283b",
+    "id": "baa112609cb081007d50496bf1b4283b",
     "maintainers": [
         {
             "main_maintainer": false,
