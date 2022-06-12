@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-lavender-20220520-gapps.zip",
-    "datetime": 1653074192,
-    "size": 1656390830,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/lavender/Spark-12.3-Official-lavender-20220520-gapps.zip",
-    "filehash": "11b1dff5629b30a1f024928842eb6afc",
-    "id": "11b1dff5629b30a1f024928842eb6afc",
+    "filename": "Spark-12.4-Official-lavender-20220611-gapps.zip",
+    "datetime": 1654983391,
+    "size": 1718625214,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/lavender/Spark-12.4-Official-lavender-20220611-gapps.zip",
+    "filehash": "e1fe7d1ca8b33d14be5a411a967d0b38",
+    "id": "e1fe7d1ca8b33d14be5a411a967d0b38",
     "maintainers": [
         {
             "main_maintainer": false,
