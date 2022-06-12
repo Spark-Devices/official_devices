@@ -13,9 +13,9 @@
     "device_display_name": "Redmi 5 Plus",
     "device_display_codename": "vince",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/vince/",
-    "last_updated": "21 May 2022",
-    "private_download_tag": "vince_20220521_1403",
+    "last_updated": "12 June 2022",
+    "private_download_tag": "vince_20220612_1841",
     "active": true,
     "xda": null,
-    "customRecoveryRequired": true
+    "customRecoveryRequired": false
 }
