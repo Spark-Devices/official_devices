@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-whyred-20220518-gapps.zip",
-    "datetime": 1652875562,
-    "size": 1344640598,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/whyred/Spark-12.3-Official-whyred-20220518-gapps.zip",
-    "filehash": "ca32dd9e449b65c5c14fc302c1b39831",
-    "id": "ca32dd9e449b65c5c14fc302c1b39831",
+    "filename": "Spark-12.4-Official-whyred-20220612-gapps.zip",
+    "datetime": 1655063811,
+    "size": 1345324394,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/whyred/Spark-12.4-Official-whyred-20220612-gapps.zip",
+    "filehash": "b81a99cabf42dd65015e31b7d48cac9f",
+    "id": "b81a99cabf42dd65015e31b7d48cac9f",
     "maintainers": [
         {
             "main_maintainer": false,
