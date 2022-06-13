@@ -1,6 +1,5 @@
 # 13-June-2022
 
-- Fixed SystemUI crash while disconnecting from usb tethering.
 - Fixed offline charging issue.
 - Updated Bluetooth audio hidl to 2.1.
 - Updated DRM hidl to 1.4.
