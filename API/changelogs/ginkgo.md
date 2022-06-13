@@ -1,3 +1,16 @@
+# 13-June-2022
+
+- Fixed SystemUI crash while disconnecting from usb tethering.
+- Fixed offline charging issue.
+- Updated Bluetooth audio hidl to 2.1.
+- Updated DRM hidl to 1.4.
+- Rounded corner adjustment.
+- Disabled Vsync for CPU rendered apps.
+- Ui is much smoother now.
+- some misc optimization and under the hood changes.
+
+
+
 # 20-May-2022
 
 - May Security patch.
