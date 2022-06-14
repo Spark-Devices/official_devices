@@ -1,3 +1,7 @@
+# 14-June-2022
+- Nuked dirac
+- Addressed some audio issues
+
 # 10-June-2022
 - Switched to erofs
 - Added moto Dolby and dirac
