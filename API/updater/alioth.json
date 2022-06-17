@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-alioth-20220525-gapps.zip",
-    "datetime": 1653451693,
-    "size": 1828461580,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-12.3-Official-alioth-20220525-gapps.zip",
-    "filehash": "dc69f829a3bb20106a8ba7e2e00e4bd1",
-    "id": "dc69f829a3bb20106a8ba7e2e00e4bd1",
+    "filename": "Spark-12.4-Official-alioth-20220616-gapps.zip",
+    "datetime": 1655418611,
+    "size": 1739642187,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-12.4-Official-alioth-20220616-gapps.zip",
+    "filehash": "cb059c64a7f29e6ae35e9a8bce3b6070",
+    "id": "cb059c64a7f29e6ae35e9a8bce3b6070",
     "maintainers": [
         {
             "main_maintainer": false,
