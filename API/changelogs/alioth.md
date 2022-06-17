@@ -1,3 +1,13 @@
+# 17th june 2022
+- Adapt status bar after June patch
+- Properly configure corner roundness
+- switchto using xiaomi disp_param cmd command
+- Implement LiveDisplay HAL
+- Fix fingerprint wake-up animation
+- Enable burnin protection
+- Update adreno graphics blobs to v@0615_v3
+- and many more check my trees for full changes
+
 # 25th May 2022
 - Removed advanced refresh rate tile (causes boot loop)
 - Reduced flickering as much as possible 
