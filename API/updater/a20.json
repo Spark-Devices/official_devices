@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "12",
-    "filename": "Spark-12.3-Official-a20-20220602-gapps.zip",
-    "datetime": 1654172997,
-    "size": 1457869396,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/a20/Spark-12.3-Official-a20-20220602-gapps.zip",
-    "filehash": "95949b27d6b600b8ce1cbc3441ef2cf4",
-    "id": "95949b27d6b600b8ce1cbc3441ef2cf4",
+    "filename": "Spark-12.4-Official-a20-20220618-gapps.zip",
+    "datetime": 1655547110,
+    "size": 1463064123,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/a20/Spark-12.4-Official-a20-20220618-gapps.zip",
+    "filehash": "1046fcfd38dc73fd1f7b61f0a161cbff",
+    "id": "1046fcfd38dc73fd1f7b61f0a161cbff",
     "maintainers": [
         {
             "main_maintainer": false,
