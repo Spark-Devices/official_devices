@@ -1,4 +1,4 @@
-#13-June-2022
+# 13-June-2022
 
 - June security patch
 - Update max visible system icons
