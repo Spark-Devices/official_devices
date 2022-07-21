@@ -1,3 +1,11 @@
+# Requirements:
+- Up to date bootloader and modem
+- Any Custom Recovery that allows flashing unsigned zips
+
+# Flashing recovery
+- Reboot to bootloader
+- in command prompt flash the vendor_boot.img you just downloaded from the recovery link (NOTE: With gs101 google moved recovery to the vendor_boot partition) by typing "fastboot flash vendor_boot vendor_boot.img"
+ 
 # Clean flash:
 - Flash recovery (link is above)
 - Download ROM from the link above
