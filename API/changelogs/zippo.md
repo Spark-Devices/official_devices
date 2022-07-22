@@ -2,6 +2,7 @@
 - Switch back to OpenGL for UI rendering
 - Fix artifacts in videos in some apps like Instagram
 - Fix Smart Charging
+- Support Smart Pixels
 - Use directBootAware for parts
 - Fix SEPolicy and stop ignoring neverallows
 - Add translations in parts
