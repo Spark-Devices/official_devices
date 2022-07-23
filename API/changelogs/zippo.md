@@ -1,3 +1,14 @@
+# 23-Jul-2022
+- Switch back to OpenGL for UI rendering
+- Fix artifacts in videos in some apps like Instagram
+- Fix Smart Charging
+- Support Smart Pixels
+- Use directBootAware for parts
+- Fix SEPolicy and stop ignoring neverallows
+- Add translations in parts
+- Update wireguard
+- Merge some changes from CAF in kernel
+
 # 22-Jul-2022
 - Switch back to OpenGL for UI rendering
 - Fix artifacts in videos in some apps like Instagram
