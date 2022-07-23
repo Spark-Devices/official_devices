@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Semina Alexandru",
             "telegram": "https://t.me/semialex16",
@@ -13,8 +13,8 @@
     "device_display_name": "Galaxy A40",
     "device_display_codename": "a40",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/a40",
-    "last_updated": "2 June",
-    "private_download_tag": "a40_20220618_1415",
+    "last_updated": "23 July 2022",
+    "private_download_tag": "a40_20220723_0217",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
