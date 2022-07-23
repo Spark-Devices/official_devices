@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "KangMonkey",
             "telegram": "https://t.me/thepsambit",
@@ -13,8 +13,8 @@
     "device_display_name": "POCO X3 Pro",
     "device_display_codename": "vayu/bhima",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/vayu/",
-    "last_updated": "3 June",
-    "private_download_tag": "vayu_20220603_1506",
+    "last_updated": "23 July 2022",
+    "private_download_tag": "vayu_20220722_2347",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
