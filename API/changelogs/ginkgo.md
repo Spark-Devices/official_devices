@@ -1,3 +1,10 @@
+# 23-Jul-2022
+- Source Upstream
+- July Patch 
+- Switched to Quick Silver Kernel
+- Updated ImsFactory to v1.1
+- Fixed Smart Replies
+
 # 13-June-2022
 
 - Fixed offline charging issue.

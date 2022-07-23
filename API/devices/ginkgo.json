@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Rahul Gorai",
             "telegram": "https://t.me/RahulGorai",
@@ -13,8 +13,8 @@
     "device_display_name": "Redmi Note 8/8T",
     "device_display_codename": "ginkgo/willow",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/ginkgo/",
-    "last_updated": "13th June",
-    "private_download_tag": "ginkgo_20220613_2016",
+    "last_updated": "23 July 2022",
+    "private_download_tag": "ginkgo_20220723_1911",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
