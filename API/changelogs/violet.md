@@ -1,3 +1,15 @@
+# 24-Jul-2022
+- Cleaned up device tree
+- Move Thermal Profile to battery section
+- Allow bluetooth to read incremental prop
+- Added overlays for battery health nodes
+- Allow platform app to find SoterService
+- Synced Vendor with device tree
+- Fixed some audio issues
+- Compact cached app heaps in the background
+- Disabled proximity usage during doze
+- Fixed Ok Google
+
 # 13-June-2022
 
 - June security patch
