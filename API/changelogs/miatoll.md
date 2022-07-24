@@ -1,3 +1,10 @@
+# 24-Jul-2022
+- Set arch varient to armv8-2a-dotprod
+- Enabled background blur
+- Disable wifi aware
+- Fixed fp sensor indicator location
+- Fixed scroll lag in some apps
+
 # 10-June-2022
 - Disable QCOM system daemon
 - Misc fixes and improvements in trees
