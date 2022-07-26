@@ -1,3 +1,6 @@
+# 26-Jul-2022
+- Fixed dt2w
+
 # 24-Jul-2022
 - Cleaned up device tree
 - Move Thermal Profile to battery section
