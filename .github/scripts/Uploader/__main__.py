@@ -67,7 +67,7 @@ for tag in new_tags:
     os.system("sudo apt install sshpass")
     # os.system("mkdir ~/.ssh/")
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
-    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img spkal01@frs.sourceforge.net:/home/frs/project/sparkosofficial/" + device + "/recovery" + "")
+    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img spkal01@frs.sourceforge.net:/home/frs/project/sparkosofficial/" + device + "/recovery/" + "")
     os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip spkal01@frs.sourceforge.net:/home/frs/project/sparkosofficial/" + device + "")
 
     os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
