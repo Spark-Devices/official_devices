@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Dhruvesh",
             "telegram": "https://t.me/dhruvesh_23",
@@ -13,8 +13,8 @@
     "device_display_name": "Realme XT",
     "device_display_codename": "RMX1921",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/RMX1921/",
-    "last_updated": "14 June 2022",
-    "private_download_tag": "RMX1921_20220614_0219",
+    "last_updated": "26 July 2022",
+    "private_download_tag": "RMX1921_20220726_1119",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
