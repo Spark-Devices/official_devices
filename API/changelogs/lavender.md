@@ -1,3 +1,20 @@
+# 27-Jul-2022
+- Clean Flash Mandatory
+- Fix adoptable storage problem
+- gps: Update GPS config for S
+- overlay: Unpin updatable-media from memory
+- overlay: Drop deprecated overlay
+- overlay: Add support for Smart Pixels
+- Copy Modified libprocessgroup configs to vendor * Schedtune
+- Makefile: Inherit several Android Go configurations
+- Bring back vendor RenderScript implementation
+- props: Move IORapd configs to product
+- Pull QTI Thermal from LineageOS and adpat to lavender
+- DeviceSettings: Drop Thermal and Kcal configs
+- Import apn configs from lineage
+- sepolicy: Address smart charge denials
+- Add overlays/node for smart charging
+
 # 12-June-2022
 
 - Pick up USB configurations from QCOM

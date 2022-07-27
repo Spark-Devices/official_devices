@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Vitor Leal",
             "telegram": "https://t.me/bitortheaddicted",
@@ -13,8 +13,8 @@
     "device_display_name": "Redmi Note 7",
     "device_display_codename": "lavender",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/lavender/",
-    "last_updated": "12 June",
-    "private_download_tag": "lavender_20220612_0328",
+    "last_updated": "27 July 2022",
+    "private_download_tag": "lavender_20220726_2226",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
