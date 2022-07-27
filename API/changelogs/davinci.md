@@ -1,3 +1,10 @@
+# 27-Jul-2022
+- Rebased on Latest Arian trees
+- Fixed d2tw
+- Added f2fs compression
+- Upstreamed Vantom kernel
+- More under the hood improvements
+
 # 14-June-2022
 - Nuked dirac
 - Addressed some audio issues
