@@ -1,3 +1,6 @@
+# 29-Jul-2022
+- Merge LA.UM.9.1.r1-12100-SMxxx0.QSSI12.0 in Kernel
+
 # 11th June 2022
 rootdir: Add recovery partition to fstab
 Kernel changes -
