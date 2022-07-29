@@ -1,3 +1,9 @@
+# 29-Jul-2022
+- Updated partition for Vanilla Build (You can flash gapps now)
+- Switched to NetErnels Kernel 
+- Based on 13.0.5 FW
+- Other fixes and improvements
+
 # 14-June-2022
 - Added GcamGo
 - Fix Display Animation While AOD On/Off Screen
