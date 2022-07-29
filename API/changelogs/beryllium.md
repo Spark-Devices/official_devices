@@ -1,3 +1,15 @@
+# 29-Jul-2022
+- Source Upstream
+- July Patch 
+- Switched to Modified Silver Core Kernel
+- Fixed Poweroff Alarm
+- System_ext is now adapted
+- Added wifi Aware support
+- implemented Low interaction min freq for big and little cluster
+- Decreased schedtune boost to save battery
+- Removed virtual framebuffer to save memory
+- Added some more gapps
+
 # 12-June-2022
 
 - June Security patch.
