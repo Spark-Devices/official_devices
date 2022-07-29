@@ -1,12 +1,13 @@
 {
     "error": false,
-    "version": "12",
-    "filename": "Spark-12.4-Official-raven-20220616-gapps.zip",
-    "datetime": 1655371883,
-    "size": 2130448114,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/raven/Spark-12.4-Official-raven-20220616-gapps.zip",
-    "filehash": "bd715762b8d34e3a7bf97dc0b1e0e012",
-    "id": "bd715762b8d34e3a7bf97dc0b1e0e012",
+    "version": "twelve",
+    "filename": "Spark-12.5-Official-raven-20220727-gapps.zip",
+    "datetime": 1658924132,
+    "size": 1989185813,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/raven/Spark-12.5-Official-raven-20220727-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "6ebd92e4530aa1b86768b8cd44191ebb",
+    "id": "6ebd92e4530aa1b86768b8cd44191ebb",
     "maintainers": [
         {
             "main_maintainer": false,
