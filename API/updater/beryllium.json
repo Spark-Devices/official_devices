@@ -1,12 +1,13 @@
 {
     "error": false,
-    "version": "12",
-    "filename": "Spark-12.4-Official-beryllium-20220611-gapps.zip",
-    "datetime": 1654971266,
-    "size": 1604839781,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/beryllium/Spark-12.4-Official-beryllium-20220611-gapps.zip",
-    "filehash": "5af07e2697c0cd4bd1455a1e44fa0517",
-    "id": "5af07e2697c0cd4bd1455a1e44fa0517",
+    "version": "twelve",
+    "filename": "Spark-12.5-Official-beryllium-20220729-gapps.zip",
+    "datetime": 1659078675,
+    "size": 1640230754,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/beryllium/Spark-12.5-Official-beryllium-20220729-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "6e80f87ffb317ae781ccb45503113f13",
+    "id": "6e80f87ffb317ae781ccb45503113f13",
     "maintainers": [
         {
             "main_maintainer": false,
