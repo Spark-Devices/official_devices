@@ -1,12 +1,13 @@
 {
     "error": false,
-    "version": "12",
-    "filename": "Spark-12.4-Official-cepheus-20220610-gapps.zip",
-    "datetime": 1654893276,
-    "size": 2021728218,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-12.4-Official-cepheus-20220610-gapps.zip",
-    "filehash": "bbf1c7734e672e569441470d8cfa10ab",
-    "id": "bbf1c7734e672e569441470d8cfa10ab",
+    "version": "twelve",
+    "filename": "Spark-12.5-Official-cepheus-20220729-gapps.zip",
+    "datetime": 1659084130,
+    "size": 1962817152,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-12.5-Official-cepheus-20220729-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "4295233de20593142df36efc02c8166e",
+    "id": "4295233de20593142df36efc02c8166e",
     "maintainers": [
         {
             "main_maintainer": false,
