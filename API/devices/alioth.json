@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Ziad Fekry",
             "telegram": "https://t.me/ZiadFekry",
@@ -13,8 +13,8 @@
     "device_display_name": "Poco F3",
     "device_display_codename": "Alioth",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/alioth/",
-    "last_updated": "17 june",
-    "private_download_tag": "alioth_20220617_0430",
+    "last_updated": "30 July 2022",
+    "private_download_tag": "alioth_20220729_1536",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true

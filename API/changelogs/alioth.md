@@ -1,3 +1,9 @@
+# 30-Jul-2022
+- Fixed 5g 
+- Fixed video call
+- Fixed wfd 
+- Updated kernel (wild angel v76)
+
 # 17th june 2022
 - Adapt status bar after June patch
 - Properly configure corner roundness
