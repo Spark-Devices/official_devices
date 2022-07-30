@@ -1,3 +1,14 @@
+# 30-Jul-2022
+!! clean flash mandatory !!
+!! only spark recovery working !!
+- switched to sebas los trees
+- added back some spark overlays
+- add battery health
+- fixed some denials
+- add back face unlock
+- killed some fc spam
+- some more performance optimisations
+
 # 11-Jun-2022
 
 - keep Iron-X Kernel for now

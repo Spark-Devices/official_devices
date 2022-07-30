@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "tribual",
             "telegram": "https://t.me/tribual",
@@ -13,8 +13,8 @@
     "device_display_name": "Mi 9",
     "device_display_codename": "cepheus",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/",
-    "last_updated": "11 Jun 2022",
-    "private_download_tag": "cepheus_20220611_0229",
+    "last_updated": "30 July 2022",
+    "private_download_tag": "cepheus_20220729_0912",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
