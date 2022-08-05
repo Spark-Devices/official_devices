@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Semina Alexandru",
+            "telegram": "https://t.me/semialex16",
+            "github": "https://github.com/alexandrusemina"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 11 pro 5G / Poco X4 Pro 5G",
+    "device_display_codename": "veux",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/veux/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
