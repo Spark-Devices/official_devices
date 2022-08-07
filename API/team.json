@@ -9,19 +9,11 @@
             "tagline": "Sooon"
 	},
         {
-            "name" : "Atharva Agnihotri",
-            "github": "Atharva-Agnihotri7115",
-            "telegram": "Atharva_Agnihotri",
-            "XDA": "https://forum.xda-developers.com/m/atharva_agnihotri.11667619/",
-            "role": "RM6785(Unified) Maintainer",
-            "tagline": "Your Neighbourly Gym Bro"
-	},
-        {
             "name" : "Rahul Gorai",
             "github": "RahulGorai0206",
             "telegram": "RahulGorai",
             "XDA": "https://forum.xda-developers.com/m/rahulgorai.10545371",
-            "role": "Beryllium, Ginkgo And Willow Maintainer",
+            "role": "Beryllium,RM6785,Ginkgo And Willow Maintainer",
             "tagline": "Me Noob Sar"
         },
         {
