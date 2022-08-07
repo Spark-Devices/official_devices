@@ -10,14 +10,15 @@
 	    "active" : true
 	},
         {
-           "codename" : "Nemo",
-           "codename_alt" : "RM6785",
-           "vendor" : "Realme",
-           "model" : " Realme 6/6i/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-           "maintainer_name" : "Atharva Agnihotri",
-           "frame" : null,
-           "active" : true
-       },
+            "codename" : "RM6785",
+            "codename_alt" : "RM6785",
+            "vendor" : "Realme",
+            "model" : "Realme 6/6i/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+            "maintainer_name" : "Rahul Gorai",
+            "frame" : null,
+            "active" : true
+         },
+           
        {
            "codename" : "RMX1921",
            "codename_alt" : "RMX1921",
