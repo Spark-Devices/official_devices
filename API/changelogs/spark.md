@@ -1,3 +1,41 @@
+# Version 12.6
+
+- Merged August sp 
+- Added the ability to hide arrow on back gesture
+- Optimized ScrimState 
+- GmsCompat updates from graphene os
+- Major improvements to reticker
+- Fixed an issue with gamespace crashing with multiple users
+- Fixed some qs lag when volte/vowifi icons are enabled
+- Changed icon for output picker on volume panel
+- Changed bg tint of inactive rows on volume panel
+- Added a toggle between caf and aosp wifi icon style
+- Revamped fps counter
+- Added the ability to configure sb and qs clock size
+- Reverted to a12L qs panel
+- Added options to configure qs columns 
+- Added options to hide qs labels and use vertical layout
+- Updated notification count icons
+- Made Keyguard Clock follow system font
+- Added some new fonts
+- Enabled multi audio focus while per app volume is active
+- Switched headups notification background to Monet
+- Added seekbars for sb paddings
+- Improved some animations on qs
+- Removed marque from carrier and qs tile view ( Improves scrolling experience a lot)
+- Fixed some crashes
+- Some performance improvements to zlib
+- Added an option to enable sb bg chip
+- Fixed media artwork bg options
+- Added the ability to select custom TTF files
+- Added an optional memory view to Spark launcher
+- Fixed some spark Launcher crashes
+- Redid blur and opacity customizations on Spark launcher
+- Added a toggle for launcher quick actions 
+- Added a toggle for app drawer search bar
+- Added an option to force app white label
+- Added support for google dialer call recording
+
 # Version 12.4
 - Merged June security patch
 - Switched gaming mode implementation
