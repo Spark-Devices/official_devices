@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-miatoll-20220723-gapps.zip",
-    "datetime": 1658576219,
-    "size": 1916410982,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/Spark-12.5-Official-miatoll-20220723-gapps.zip",
+    "filename": "Spark-12.6-Official-miatoll-20220816-gapps.zip",
+    "datetime": 1660664636,
+    "size": 1932515037,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/Spark-12.6-Official-miatoll-20220816-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "3762710463593fdc62715a2d246d0027",
-    "id": "3762710463593fdc62715a2d246d0027",
+    "filehash": "5173073a77a3249dd410d9640bedeb32",
+    "id": "5173073a77a3249dd410d9640bedeb32",
     "maintainers": [
         {
             "main_maintainer": false,
