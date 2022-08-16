@@ -1,3 +1,10 @@
+# 16-Aug-2022
+- Fixed gms battery drain
+- Fixed audio in Google voice recorder
+- Fixed qs lag
+- Used cpusets from Pixel 4a
+- Drop force triple frame buffers
+
 # 24-Jul-2022
 - Set arch varient to armv8-2a-dotprod
 - Enabled background blur
