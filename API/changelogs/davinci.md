@@ -4,7 +4,7 @@
 - Specified LZ4 as F2FS compression algorithm
 - Changed default GPU idle timeout to 60ms
 - Tuned Statusbar Paddings
-- Nuked Vulkan support and switched back to skiavk (Fixes Blue videos on Instagram)
+- Nuked opengl and switched back to skiavk (Fixes Blue videos on Instagram)
 - Updated adreno blobs
 
 # 27-Jul-2022
