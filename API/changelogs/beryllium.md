@@ -1,3 +1,18 @@
+# 17-Aug-2022
+Added non-expensive window-level blur to reduce lags.
+Added hearing aid support.
+Dropped live-display.
+Top-app schedtune boost is now 10.
+Enhanced audio quality.
+Improved UI smoothness.
+Switched to source based haptics.
+Fixed QS lags.
+Added  latest Kryo 785 & 385 Optmiziations.
+Dropped IFAA.
+Switched to OPENGL renderer.
+tuned powerhint for better battery backup.
+addressed some denials.
+
 # 29-Jul-2022
 - Source Upstream
 - July Patch 
