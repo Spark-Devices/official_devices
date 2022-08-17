@@ -1,3 +1,17 @@
+# 17-Aug-2022
+- Update battery health nodes/overlays
+- Drop selective overlay's
+- Fix mic volume in some apps
+- rootdir: Allow telephony access to proc/cmdline
+- audio: Increase handset speaker and mic volume
+- audio: Allocate dedicated pcm node for in call recording
+- codecs: Finetune fps for hevc encoder
+- audio: Add support for ViPER4Android FX unrooted
+- surfaceflinger: Tune phase offsets duration
+- overlay: Sync Navigation Bar Dimens from TPB3.220513.017.B1
+- powerhint: Drop PM QoS boosting
+- Disable client composition cache
+
 # 27-Jul-2022
 - Clean Flash Mandatory
 - Fix adoptable storage problem
