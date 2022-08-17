@@ -1,3 +1,6 @@
+# 17-Aug-2022
+- Disable QTI perf lock usage in camera HAL
+
 # 23-Jul-2022
 - Switch back to OpenGL for UI rendering
 - Fix artifacts in videos in some apps like Instagram
