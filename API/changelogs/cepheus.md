@@ -1,3 +1,14 @@
+# 18-Aug-2022
+!!only spark recovery working!!
+- reworked many things in parts
+- use now pixel thermal hal
+- add livedisplay 2.1
+- add back Dirac 
+- performance increased
+- some blob updates
+- fixed more denials
+- gms rework for more battery saving
+
 # 30-Jul-2022
 !! clean flash mandatory !!
 !! only spark recovery working !!
