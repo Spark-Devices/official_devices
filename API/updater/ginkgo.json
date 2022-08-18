@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-ginkgo-20220723-gapps.zip",
-    "datetime": 1658602247,
-    "size": 1633708864,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/ginkgo/Spark-12.5-Official-ginkgo-20220723-gapps.zip",
+    "filename": "Spark-12.6-Official-ginkgo-20220818-gapps.zip",
+    "datetime": 1660803767,
+    "size": 1649215721,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/ginkgo/Spark-12.6-Official-ginkgo-20220818-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "bef9a508a0af4642fd7acc4507329602",
-    "id": "bef9a508a0af4642fd7acc4507329602",
+    "filehash": "44d3447559f3726a7e6a0a93bc66315a",
+    "id": "44d3447559f3726a7e6a0a93bc66315a",
     "maintainers": [
         {
             "main_maintainer": false,
