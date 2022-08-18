@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-violet-20220726-gapps.zip",
-    "datetime": 1658842121,
-    "size": 1846489229,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/violet/Spark-12.5-Official-violet-20220726-gapps.zip",
+    "filename": "Spark-12.6-Official-violet-20220817-gapps.zip",
+    "datetime": 1660767098,
+    "size": 1861876668,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/violet/Spark-12.6-Official-violet-20220817-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "837fda7f60f8982c98e75d46fdb9f5f9",
-    "id": "837fda7f60f8982c98e75d46fdb9f5f9",
+    "filehash": "4e4e8fd9462a14107c9b66986eb37e5c",
+    "id": "4e4e8fd9462a14107c9b66986eb37e5c",
     "maintainers": [
         {
             "main_maintainer": false,
