@@ -1,3 +1,6 @@
+# 18-Aug-2022
+- Source Upstream
+
 # 23-Jul-2022
 - Switched to QTI Bluetooth Stack.
 - Disable remote keyguard animation.
