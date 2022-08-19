@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-vayu-20220722-gapps.zip",
-    "datetime": 1658532257,
-    "size": 1946185426,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/vayu/Spark-12.5-Official-vayu-20220722-gapps.zip",
+    "filename": "Spark-12.6-Official-vayu-20220818-gapps.zip",
+    "datetime": 1660830356,
+    "size": 1961953538,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/vayu/Spark-12.6-Official-vayu-20220818-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "ba448493f035acb10bcd44089ae9c2fa",
-    "id": "ba448493f035acb10bcd44089ae9c2fa",
+    "filehash": "cb9bd78df733081f7acb2d68f22161ab",
+    "id": "cb9bd78df733081f7acb2d68f22161ab",
     "maintainers": [
         {
             "main_maintainer": false,
