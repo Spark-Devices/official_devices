@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-lmi-20220725-gapps.zip",
-    "datetime": 1658768049,
-    "size": 1990191133,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-12.5-Official-lmi-20220725-gapps.zip",
+    "filename": "Spark-12.6-Official-lmi-20220819-gapps.zip",
+    "datetime": 1660906032,
+    "size": 2046956787,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-12.6-Official-lmi-20220819-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "723e3f447119a59df058f679cda2f325",
-    "id": "723e3f447119a59df058f679cda2f325",
+    "filehash": "0403be65303d8d640ffddee8ec633508",
+    "id": "0403be65303d8d640ffddee8ec633508",
     "maintainers": [
         {
             "main_maintainer": false,
