@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-RMX1921-20220726-gapps.zip",
-    "datetime": 1658832799,
-    "size": 1815870499,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX1921/Spark-12.5-Official-RMX1921-20220726-gapps.zip",
+    "filename": "Spark-12.6-Official-RMX1921-20220819-gapps.zip",
+    "datetime": 1660930768,
+    "size": 1831843334,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX1921/Spark-12.6-Official-RMX1921-20220819-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "3f8b4a8e85f25e2204264759859cc41e",
-    "id": "3f8b4a8e85f25e2204264759859cc41e",
+    "filehash": "989ac6b27a51374d0a3f4f618410b7d0",
+    "id": "989ac6b27a51374d0a3f4f618410b7d0",
     "maintainers": [
         {
             "main_maintainer": false,
