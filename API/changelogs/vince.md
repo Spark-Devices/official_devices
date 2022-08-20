@@ -1,3 +1,20 @@
+# 20-Aug-2022
+- Dropped redundant zram writeback.
+- Set 50% zram of the total RAM.
+- Set swappiness to 60.
+- Tweaked dalvik props for 3GB & 4GB variants properly and moved it into libinit.
+- Imported ACDB's from various msm8953 devices.
+- Improved sound quality and volume for loudspeaker and headset/headphones.
+- Fixed poor recording quality of voice recorders.
+- Fixed mic distortion in voice calls.
+- Disabled blur again.
+- Improved indoor GPS accuracy.
+- Imported perfd blobs from stock miui to handle perf lock properly.
+- Fixed battery drain due to wifi.
+- Reduced UI lag while screenrecording.
+- Tuned surfaceflinger duration props for better performance.
+- Optimized system performance and improved stability.
+
 # 24-Jul-2022
 - Unitrix Kernel 4.9.324.
 - Fixed No audio playback in loudspeaker while playing games.
