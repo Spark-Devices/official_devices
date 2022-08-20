@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-vince-20220723-gapps.zip",
-    "datetime": 1658614419,
-    "size": 1365921403,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-12.5-Official-vince-20220723-gapps.zip",
+    "filename": "Spark-12.6-Official-vince-20220820-gapps.zip",
+    "datetime": 1660985582,
+    "size": 1380775498,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-12.6-Official-vince-20220820-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "889305a356c6e0cae9d632559419f109",
-    "id": "889305a356c6e0cae9d632559419f109",
+    "filehash": "7c4cfdc92f0111d75b474ddf84e21c3c",
+    "id": "7c4cfdc92f0111d75b474ddf84e21c3c",
     "maintainers": [
         {
             "main_maintainer": false,
