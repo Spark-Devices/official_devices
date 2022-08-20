@@ -1,3 +1,7 @@
+# 20-Aug-2022
+- Update dt with LOS
+- Remove FM Radio for now
+
 # 25-Jul-2022
 - Rebase trees on latest LOS trees
 - Fix some selinux denials
