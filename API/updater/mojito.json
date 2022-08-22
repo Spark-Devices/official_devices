@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "Spark-12.5-Official-mojito-20220726-gapps.zip",
-    "datetime": 1658856314,
-    "size": 1550374580,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/mojito/Spark-12.5-Official-mojito-20220726-gapps.zip",
+    "filename": "Spark-12.6-Official-mojito-20220819-gapps.zip",
+    "datetime": 1660900522,
+    "size": 1564537542,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/mojito/Spark-12.6-Official-mojito-20220819-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "0f988e196b87a548d16ea227c0a0783c",
-    "id": "0f988e196b87a548d16ea227c0a0783c",
+    "filehash": "3eb90896a2af1f65d84418f69197e1e9",
+    "id": "3eb90896a2af1f65d84418f69197e1e9",
     "maintainers": [
         {
             "main_maintainer": false,
