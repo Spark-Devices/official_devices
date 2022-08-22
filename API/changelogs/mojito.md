@@ -1,3 +1,6 @@
+# 22-Aug-2022
+- Minor Fixes and Improvements
+
 # 29-Jul-2022
 - Updated partition for Vanilla Build (You can flash gapps now)
 - Switched to NetErnels Kernel 
