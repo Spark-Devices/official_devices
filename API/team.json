@@ -5,25 +5,9 @@
             "github": "spkal01",
             "telegram": "spkal",
             "XDA": "https://forum.xda-developers.com/m/spkal01.10691747/",
-            "role": "Lead Dev, Founder, Davinci Maintainer",
+            "role": "Lead Dev, Founder, Davinci and Munch Maintainer",
             "tagline": "Sooon"
 	},
-        {
-            "name" : "Rahul Gorai",
-            "github": "RahulGorai0206",
-            "telegram": "RahulGorai",
-            "XDA": "https://forum.xda-developers.com/m/rahulgorai.10545371",
-            "role": "Beryllium,RM6785,Ginkgo And Willow Maintainer",
-            "tagline": "Me Noob Sar"
-        },
-        {
-            "name" : "Semina Alexandru",
-            "github": "alexandrusemina",
-            "telegram": "semialex16",
-            "XDA": "https://forum.xda-developers.com/m/alexandrusemina8.10017700/",
-            "role": "Galaxy A10 A20 A20e A30 A40 and Redmi note 11 Maintainer",
-            "tagline": "Learning every day (literally)"
-        },
         {
             "name" : "Krish Walecha",
             "github": "KrishWalecha",
@@ -41,19 +25,11 @@
             "tagline": "That Silent Kid"
         },
         {
-            "name" : "dhruvesh",
-            "github": "dhruvesh16",
-            "telegram": "dhruvesh_23",
-            "XDA": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
-            "role": "RMX1921 Maintainer",
-            "tagline": "spkal is pro"
-        },
-        {
             "name" : "ChemaF",
             "github": "chematelegram",
             "telegram": "chematelegram ",
             "XDA": "https://forum.xda-developers.com/m/chema_f.4454188/",
-            "role": "Zippo maintainer",
+            "role": "Zippo maintainer, Crowdin Administrator",
             "tagline": "Spanish omelette ftw "
         },
         {
@@ -63,94 +39,6 @@
             "XDA": "https://forum.xda-developers.com/m/anandhan07.12119443/",
             "role": "Vince Maintainer",
             "tagline": "Error 404"
-        },
-        {
-            "name" : "Pranshu Goyal",
-            "github": "datnerdguy",
-            "telegram": "datnerdguy",
-            "XDA": "https://forum.xda-developers.com/m/datnerdguy.12079991/",
-            "role": "Whyred Maintainer",
-            "tagline": "Pancho Friday Hai"
-        },
-        {
-            "name" : "tribual",
-            "github": "tribual",
-            "telegram": "tribual",
-            "XDA": "https://forum.xda-developers.com/m/tribual.4509295/",
-            "role": "Cepheus (Mi9) Maintainer",
-            "tagline": "new day, new chance"
-        },
-        {
-            "name" : "Vitor Leal",
-            "github": "Vitorgl2003",
-            "telegram": "bitortheaddicted",
-            "XDA": "https://forum.xda-developers.com/m/vgl12258.11389833/",
-            "role": "Lavender Maintainer",
-            "tagline": "너무 멀리"
-        },
-        {
-            "name" : "P Sambit Kumar",
-            "github": "KangMonkey",
-            "telegram": "thepsambit",
-            "XDA": "https://forum.xda-developers.com/m/kangmonkey.10219211/",
-            "role": "Vayu Maintainer",
-            "tagline": "Chaos, panic & disorder – my work here is done."
-        },
-        {
-            "name" : "Redcliff",
-            "github": "redcliff-op",
-            "telegram": "redcliffop",
-            "XDA": "https://forum.xda-developers.com/",
-            "role": "Phoenix Maintainer",
-            "tagline": "Device is a 6, this rom is the 9"
-        },
-        {
-            "name" : "Niranjan BR",
-            "github": "mrfox2003",
-            "telegram": "mrfox2003",
-            "XDA": "https://forum.xda-developers.com/m/niranjanbaiju.8877003/",
-            "role": "Violet Maintainer",
-            "tagline": "Techenthusiast"
-        },
-        {
-            "name" : "Lowxorx",
-            "github": "Lowxorx",
-            "telegram": "lowxorx",
-            "XDA": "https://forum.xda-developers.com/m/lowxorx.5870340/",
-            "role": "Lmi Maintainer",
-            "tagline": "idk what i'm doing"
-        },
-        {
-            "name" : "RasyidAlKautsar",
-            "github": "RasyidAlKautsar",
-            "telegram": "RasyidAlKautsar2",
-            "XDA": "https://forum.xda-developers.com",
-            "role": "Mido Maintainer",
-            "tagline": "Me Noob"
-        },
-        {
-            "name" : "Ziad Fekry",
-            "github": "Ziad-Fekry",
-            "telegram": "ZiadFekry",
-            "XDA": "https://forum.xda-developers.com",
-            "role": "Poco F3 Maintainer",
-            "tagline": "life is good"
-         },
-         {
-            "name" : "popoASM",
-            "github": "popoA3M",
-            "telegram": "popoASM",
-            "XDA": "https://forum.xda-developers.com",
-            "role": "Miatoll Maintainer",
-            "tagline": "Hola"
-         },
-         {
-            "name" : "Matt Filetto",
-            "github": "Albinoman887",
-            "telegram": "Albinoman887",
-            "XDA": "https://forum.xda-developers.com/m/albinoman887.3322708/",
-            "role": "Raven Maintainer",
-            "tagline": "Debugger in Chief"
-          }
+        }
     ]
 }

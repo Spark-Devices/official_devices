@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: spark
+          ref: pyro
 
       - name: Bot
         run: sudo -E python3 .github/scripts/UpdatePoster
