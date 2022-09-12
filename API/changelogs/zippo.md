@@ -1,3 +1,6 @@
+# 12-Sep-2022
+- Initial A13 release
+
 # 17-Aug-2022
 - Disable QTI perf lock usage in camera HAL
 
