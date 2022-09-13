@@ -1,3 +1,6 @@
+# 13-Sep-2022
+- Initial A13 Release
+
 # 20-Aug-2022
 - Dropped redundant zram writeback.
 - Set 50% zram of the total RAM.
