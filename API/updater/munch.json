@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.0-Official-munch-20220914-gapps.zip",
+    "datetime": 1663141365,
+    "size": 1838298324,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.0-Official-munch-20220914-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "6d9d5ea9d853cab88acc89f5d95e15d7",
+    "id": "6d9d5ea9d853cab88acc89f5d95e15d7",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "spkal01",
+            "name": "spkal01"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
