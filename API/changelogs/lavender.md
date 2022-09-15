@@ -1,0 +1,63 @@
+# 27-Jul-2022
+- Clean Flash Mandatory
+- Fix adoptable storage problem
+- gps: Update GPS config for S
+- overlay: Unpin updatable-media from memory
+- overlay: Drop deprecated overlay
+- overlay: Add support for Smart Pixels
+- Copy Modified libprocessgroup configs to vendor * Schedtune
+- Makefile: Inherit several Android Go configurations
+- Bring back vendor RenderScript implementation
+- props: Move IORapd configs to product
+- Pull QTI Thermal from LineageOS and adpat to lavender
+- DeviceSettings: Drop Thermal and Kcal configs
+- Import apn configs from lineage
+- sepolicy: Address smart charge denials
+- Add overlays/node for smart charging
+
+# 12-June-2022
+
+- Pick up USB configurations from QCOM
+- Bring IFAA back in tree
+- Add OpenGL ES and Vulkan dEQP feature flags
+- Modify Vulkan and OpenGL version to 2020-03-01
+- Init: Drop no longer necessary libbase include dir
+- Speed profile services and wifi-service to reduce RAM and storage
+- Always preopt extracted APKs
+- Strip off some debug packages
+- Disable dexpreopt minidebuginfo
+- Use speed tuning for performance critical applications
+- Sepolicy: address surfaceflinger denials
+- Add vndservicemanager explicitly
+- Enable dex2oat64 to do dexopt
+- Build all extra VNDK versions
+- Sepolicy: Allow system server to getpgid zygote
+- Overlay: Use CarrierConfig CSP boolean
+- Disable debug.sf.recomputecrop
+- Delete /data/system/package_cache after updates
+- Sepolicy: Address iorap denials
+- Don't warn user about FC in Google TTS
+- Limit screen recorder's framerate to 60fps
+- Import sf offsets from Coral android-vts-12.1_r2
+- Set the maximum WFD resolution to 1080p@30
+- Compact cached app heaps in the background
+- Allow more cached apps in the background
+- Disable remote Keygaurd animation
+- Disable Chimera.GmsIntentOperationService
+- Fix wi-fi permissions
+- Add AOSP RCS packages
+- Enable HWUI_COMPILE_FOR_PERF
+- Import brightness overlays from MIUI
+- Disable SDM Scalar
+- Revert some uneeded changes
+- Improve boot time and pull in bootanim display time
+- Delete class_main init shell script
+- Optimize package manager dexopt properties
+- Optimise dex flags
+- Update surfaceflinger props
+- Enable UI touch haptic feedback by default
+- Set the automatic brightness mode off by default
+- Disable bluetooth by default
+- Disable UI touch sounds by default
+- Disable ART debug
+- Libperfmgr: Drop not supported feature

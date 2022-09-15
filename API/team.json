@@ -47,6 +47,22 @@
             "XDA": "https://forum.xda-developers.com/m/anandhan07.12119443/",
             "role": "Vince Maintainer",
             "tagline": "Error 404"
+        },
+        {
+            "name" : "Vitor Leal",
+            "github": "Vitorgl2003",
+            "telegram": "bitortheaddicted",
+            "XDA": "https://forum.xda-developers.com/m/vgl12258.11389833/",
+            "role": "Lavender Maintainer",
+            "tagline": "너무 멀리"
+        },
+        {
+            "name" : "Lowxorx",
+            "github": "Lowxorx",
+            "telegram": "lowxorx",
+            "XDA": "https://forum.xda-developers.com/m/lowxorx.5870340/",
+            "role": "Lmi Maintainer",
+            "tagline": "idk what i'm doing"
         }
     ]
 }

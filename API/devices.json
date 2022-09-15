@@ -44,6 +44,24 @@
           "maintainer_name" : "Anandhasayanan P",
           "frame" : null,
           "active" : true
+        },
+        {
+           "codename" : "lavender",
+           "codename_alt" : "lavender",
+           "vendor" : "Xiaomi",
+           "model" : "Redmi Note 7/7S",
+           "maintainer_name" : "Vitor Leal",
+           "frame" : null,
+           "active" : true
+        },
+        {
+           "codename" : "lmi",
+           "codename_alt" : "lmi",
+           "vendor" : "Xiaomi",
+           "model" : "Redmi K30 Pro / POCO F2 Pro",
+           "maintainer_name" : "Lowxorx",
+           "frame" : null,
+           "active" : true
         }
     ]
 }
