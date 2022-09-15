@@ -1,3 +1,26 @@
+# 15-Sep-2022
+- Intial A13 Release
+- Rootdir: Move ueventd.qcom.rc to /vendor/etc
+- Props: Adapt BT Configs for A13
+­- Drop Iorap
+- Fstab: removed 'quota' option
+- Switched to Dora Clang
+­- Rootdir: Stop bootanimation service after boot
+- Overlay: Pin renderscript blobs to memory
+- Overlay: Update night display configuration
+- Fstab: Set readahead_size_kb=128 to needed partitions
+- Fstab: Removed unsupported fstab flag
+- Manifest: Drop android.hardware.tetheroffload.config
+- Rootdir: Boost performance during bootup
+- Bluetooth: Remove non-existent libldacBT_{bco,dec} build rules
+- Dropped script to reorder blobs list from DT
+- Dropped android.hardware.health@2.1-impl.recovery package
+- Prebuilt libtinyxml from miui_lavender_V12.5.3.0.QFGMIXM
+- Sepolicy: Label qcom extcon sysfs
+- Overlay: Switch to threaded Skia render engine backend
+- Service: Revert Disable Chimera.GmsIntentOperationService
+- XiaomiParts: Bring back Kcal and Thermal Settings
+
 # 27-Jul-2022
 - Clean Flash Mandatory
 - Fix adoptable storage problem
