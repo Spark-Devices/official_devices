@@ -1,3 +1,6 @@
+# 17-Sep-2022
+- Initial A13 release
+
 # 25-Jul-2022
 - Rebase trees on latest LOS trees
 - Fix some selinux denials
