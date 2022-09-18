@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "popoASM",
+            "telegram": "https://t.me/popoASM",
+            "github": "https://github.com/popoA3M"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Miatoll",
+    "device_display_codename": "miatoll",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
