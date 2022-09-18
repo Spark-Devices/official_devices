@@ -10,6 +10,15 @@
 	    "active" : true
 	},
         {
+            "codename" : "miatoll",
+            "codename_alt" : "miatoll",
+            "vendor" : "Xiaomi",
+            "model" : "Miatoll",
+            "maintainer_name" : "popoASM",
+            "frame" : null,
+            "active" : true
+        },
+        {
             "codename" : "munch",
             "codename_alt" : "munch",
             "vendor" : "Xiaomi",
