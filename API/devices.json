@@ -28,15 +28,6 @@
             "active" : true
         },
         {
-           "codename" : "munch",
-           "codename_alt" : "munch",
-           "vendor" : "Xiaomi",
-           "model" : "Poco F4",
-           "maintainer_name" : "spkal01",
-           "frame" : null,
-           "active" : true
-        },
-        {
            "codename" : "zippo",
            "codename_alt" : "zippo",
            "vendor" : "Lenovo",
