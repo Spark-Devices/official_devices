@@ -71,6 +71,15 @@
            "maintainer_name" : "Metehan Beyaz ",
            "frame" : null,
            "active" : true
+         },
+         {
+          "codename" : "whyred",
+          "codename_alt" : "whyred",
+          "vendor" : "Xiaomi",
+          "model" : "Redmi Note 5/Redmi Note 5 Pro India",
+          "maintainer_name" : "datnerdguy",
+          "frame" : null,
+          "active" : true
          }
     ]
 }
