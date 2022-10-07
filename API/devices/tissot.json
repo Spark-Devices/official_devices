@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Metehan Beyaz",
+            "telegram": "https://t.me/MetoIsTaken",
+            "github": "https://github.com/MetoIsTaken"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi A1",
+    "device_display_codename": "tissot",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/tissot/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
