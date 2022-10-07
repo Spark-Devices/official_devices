@@ -71,6 +71,14 @@
             "XDA": "https://forum.xda-developers.com/m/lowxorx.5870340/",
             "role": "Lmi Maintainer",
             "tagline": "idk what i'm doing"
-        }
+        },
+        {
+            "name" : "Metehan Beyaz",
+            "github": "MetoIsTaken",
+            "telegram": "MetoIsTaken",
+            "XDA": "https://forum.xda-developers.com/m/metoistaken.12088521/",
+            "role": "Tissot Maintainer",
+            "tagline": "somethin somethin"
+         }
     ]
 }
