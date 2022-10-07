@@ -79,6 +79,14 @@
             "XDA": "https://forum.xda-developers.com/m/metoistaken.12088521/",
             "role": "Tissot Maintainer",
             "tagline": "somethin somethin"
+         },
+         {
+            "name" : "Pranshu Goyal",
+            "github": "datnerdguy",
+            "telegram": "datnerdguy",
+            "XDA": "https://forum.xda-developers.com/m/datnerdguy.12079991/",
+            "role": "Whyred Maintainer",
+            "tagline": "Pancho Friday Hai"
          }
     ]
 }
