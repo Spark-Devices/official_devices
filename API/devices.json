@@ -62,6 +62,15 @@
            "maintainer_name" : "Lowxorx",
            "frame" : null,
            "active" : true
-        }
+        },
+        {
+           "codename" : "tissot",
+           "codename_alt" : "tissot",
+           "vendor" : "Xiaomi",
+           "model" : "Mi A1",
+           "maintainer_name" : "Metehan Beyaz ",
+           "frame" : null,
+           "active" : true
+         }
     ]
 }
