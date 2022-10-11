@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.0-Official-munch-20220914-gapps.zip",
-    "datetime": 1663141365,
-    "size": 1838298324,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.0-Official-munch-20220914-gapps.zip",
+    "filename": "Spark-13.1-Official-munch-20221011-gapps.zip",
+    "datetime": 1665468885,
+    "size": 2084898348,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.1-Official-munch-20221011-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "6d9d5ea9d853cab88acc89f5d95e15d7",
-    "id": "6d9d5ea9d853cab88acc89f5d95e15d7",
+    "filehash": "9365f093c81a78266aeab8b3fcc43593",
+    "id": "9365f093c81a78266aeab8b3fcc43593",
     "maintainers": [
         {
             "main_maintainer": false,
