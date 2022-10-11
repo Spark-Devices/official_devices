@@ -1,3 +1,7 @@
+# 11-Oct-2022
+- Fix usb dual role switch (data transfer issue)
+- Include FM radio app
+
 # 12-Sep-2022
 - Initial A13 release
 
