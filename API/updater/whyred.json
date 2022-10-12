@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.1-Official-whyred-20221011-gapps.zip",
+    "datetime": 1665500565,
+    "size": 1325577647,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/whyred/Spark-13.1-Official-whyred-20221011-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "be7c9a3338c88b3daf0f4e06d430aeae",
+    "id": "be7c9a3338c88b3daf0f4e06d430aeae",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "datnerdguy",
+            "name": "Pranshu Goyal"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
