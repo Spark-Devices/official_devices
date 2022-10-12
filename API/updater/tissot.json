@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.1-Official-tissot-20221012-gapps.zip",
+    "datetime": 1665574540,
+    "size": 1141427587,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/tissot/Spark-13.1-Official-tissot-20221012-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "81ce521681910cf98cd6984869bfa2f8",
+    "id": "81ce521681910cf98cd6984869bfa2f8",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "MetoIsTaken",
+            "name": "Metehan Beyaz"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
