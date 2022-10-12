@@ -4,12 +4,6 @@
 - reworked device parts
 - fixed some denials
 
-# 11-Oct-2022
-- upstreamed trees with LOS
-- switched to immensity kernel (thanks Macka76 for his work)
-- reworked device parts
-- fixed some denials
-
 # 17-Sep-2022
 - Initial A13 release
 
