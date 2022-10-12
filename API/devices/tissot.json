@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Metehan Beyaz",
             "telegram": "https://t.me/MetoIsTaken",
@@ -13,8 +13,8 @@
     "device_display_name": "Xiaomi Mi A1",
     "device_display_codename": "tissot",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/tissot/",
-    "last_updated": "",
-    "private_download_tag": "",
+    "last_updated": "12 October 2022",
+    "private_download_tag": "tissot_20221012_1711",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
