@@ -87,6 +87,14 @@
             "XDA": "https://forum.xda-developers.com/m/datnerdguy.12079991/",
             "role": "Whyred Maintainer",
             "tagline": "Pancho Friday Hai"
+         },
+         {
+            "name" : "Ziad Fekry",
+            "github": "Ziad-Fekry",
+            "telegram": "ZiadFekry",
+            "XDA": "https://forum.xda-developers.com",
+            "role": "Poco F3 Maintainer",
+            "tagline": "life is good"
          }
     ]
 }
