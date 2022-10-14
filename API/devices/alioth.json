@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Ziad Fekry",
+            "telegram": "https://t.me/ZiadFekry",
+            "github": "https://github.com/Ziad-Fekry"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Poco F3",
+    "device_display_codename": "Alioth",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/alioth/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
