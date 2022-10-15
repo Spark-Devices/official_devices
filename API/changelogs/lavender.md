@@ -1,3 +1,26 @@
+# 15-Oct-2022
+- overlay: Don't show vendor mismatch message
+- props: Enable zygote critical window property
+- bluetooth: configs: Drop component overrides
+- bluetooth: props: Set BT device name via sysprop
+- bluetooth: Remove bdroid_buildcfg.h
+- XiaomiParts : Switch to new Xiaomi Parts implementation;
+- ueventd: Set permissions for KGSL sysfs node;
+- libhidl: Move to libhidl shim in hardware/lineage/compat;
+- overlay: Define multiple vibration intensity levels config for T;
+- bluetooth: Move Bluetooth power overlays to sysprops and power_profile;
+- props: Switch to threaded Skia render engine backend;
+- blobs: Prebuilt libtinyxml from miui_lavender_V12.5.3.0.QFGMIXM
+- rootdir: Boost performance during bootup
+- manifest: Drop android.hardware.tetheroffload.config
+- overlay: Update night display configuration
+- fstab: Set readahead_size_kb=128 to partitions
+- rootdir: Stop bootanimation service after boot
+- fstab: remove 'quota' option
+- init: Enable config_avoidGfxAccel for 3GB variants
+- overlay: Switch to AVC 3.1 for screen recording
+- props: Disable client composition cache
+
 # 15-Sep-2022
 - Intial A13 Release
 - Rootdir: Move ueventd.qcom.rc to /vendor/etc
