@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.1-Official-alioth-20221014-gapps.zip",
+    "datetime": 1665779817,
+    "size": 1790123557,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-13.1-Official-alioth-20221014-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "109ea053dcad1b1146e91999bc8bf3f9",
+    "id": "109ea053dcad1b1146e91999bc8bf3f9",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Ziad-Fekry",
+            "name": "Ziad Fekry"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
