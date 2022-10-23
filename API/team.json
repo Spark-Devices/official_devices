@@ -95,6 +95,14 @@
             "XDA": "https://forum.xda-developers.com",
             "role": "Poco F3 Maintainer",
             "tagline": "life is good"
-         }
+         },
+         {
+            "name" : "Unsatifsed27",
+            "github": "unsatifsed27",
+            "telegram": "Djampt",
+            "XDA": "null",
+            "role": "Sweet Maintainer",
+            "tagline": "idk what i'm doing"
+         }
     ]
 }
