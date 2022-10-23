@@ -97,12 +97,11 @@
             "tagline": "life is good"
          },
          {
-            "name" : "Unsatifsed27",
-            "github": "unsatifsed27",
-            "telegram": "Djampt",
-            "XDA": "null",
-            "role": "Sweet Maintainer",
-            "tagline": "idk what i'm doing"
-         }
-    ]
+            "name" : "Unsatifsed27",
+            "github": "unsatifsed27",
+            "telegram": "Djampt",
+            "XDA": "https://forum.xda-developers.com",
+            "role": "Sweet Maintainer",
+            "tagline": "Idk"
+         }
 }
