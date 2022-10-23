@@ -89,6 +89,15 @@
           "maintainer_name" : "Ziad Fekry",
           "frame" : null,
           "active" : true
+         },
+         {
+          "codename" : "sweet",
+          "codename_alt" : "sweet",
+          "vendor" : "Xiaomi",
+          "model" : "Redmi Note 10 Pro",
+          "maintainer_name" : "unsatifsed27",
+          "frame" : null,
+          "active" : true
          }
     ]
 }
