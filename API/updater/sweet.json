@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.1-Official-sweet-20221023-gapps.zip",
+    "datetime": 1666520857,
+    "size": 1866638298,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/sweet/Spark-13.1-Official-sweet-20221023-gapps.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "6f11ff5eb254c90edc0bcb2b8de3bc89",
+    "id": "6f11ff5eb254c90edc0bcb2b8de3bc89",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "unsatifsed27",
+            "name": "unsatifsed27"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
