@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "unsatifsed27",
             "telegram": "https://t.me/Djampt",
@@ -13,8 +13,8 @@
     "device_display_name": "Redmi Note 10 pro",
     "device_display_codename": "sweet",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/sweet/",
-    "last_updated": "",
-    "private_download_tag": "",
+    "last_updated": "24 October 2022",
+    "private_download_tag": "sweet_20221023_1607",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
