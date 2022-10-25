@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.1-Official-munch-20221011-gapps.zip",
-    "datetime": 1665468885,
-    "size": 2084898348,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.1-Official-munch-20221011-gapps.zip",
+    "filename": "Spark-13.1-Official-munch-20221025-gapps.zip",
+    "datetime": 1666698297,
+    "size": 2146925665,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.1-Official-munch-20221025-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "9365f093c81a78266aeab8b3fcc43593",
-    "id": "9365f093c81a78266aeab8b3fcc43593",
+    "filehash": "70b9c040f7ddf8668760c48c596b114c",
+    "id": "70b9c040f7ddf8668760c48c596b114c",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "https://PayPal.me/spyroskal",
     "website_url": "https://spark-os.live/",
     "news_url": "https://t.me/SparkOSChannel",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-0-official-sparkos-aosp-stable-11-10-2022.4504105/"
 }
