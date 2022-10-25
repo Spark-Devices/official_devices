@@ -1,3 +1,11 @@
+# 25-Oct-2022
+- Introduced MiuiCam
+- Enabled smart Charging
+- Enabled blur
+- Enabled smart pixels
+- Enabled battery health
+- Reworked some dolby configs
+
 # 11-Oct-2022
 - Introduced Dolby vision Backend support 
 -  Enabled f2fs compression
