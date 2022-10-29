@@ -1,0 +1,21 @@
+{ 
+    "maintainer":[ 
+        { 
+            "display_name": "kibria5", 
+            "telegram": "https://t.me/kibria5", 
+            "github": "https://github.com/kibria5" 
+        } 
+    ], 
+    "updater": true, 
+    "beta": false, 
+    "version": "thirteen", 
+    "release": "monthly", 
+    "device_display_name": "Redmi Note 7 Pro", 
+    "device_display_codename": "violet", 
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/violet/", 
+    "last_updated": "", 
+    "private_download_tag": "", 
+    "active": true, 
+    "xda": null, 
+    "customRecoveryRequired": true 
+}
