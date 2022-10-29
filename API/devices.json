@@ -98,6 +98,15 @@
           "maintainer_name" : "unsatifsed27",
           "frame" : null,
           "active" : true
+         },
+         { 
+          "codename" : "violet", 
+          "codename_alt" : "violet", 
+          "vendor" : "Xiaomi", 
+          "model" : "Redmi Note 7 Pro", 
+          "maintainer_name" : "kibria5", 
+          "frame" : null, 
+          "active" : true 
          }
     ]
 }
