@@ -103,6 +103,14 @@
             "XDA": "https://forum.xda-developers.com",
             "role": "Sweet Maintainer",
             "tagline": "Idk"
+         },
+         { 
+            "name" : "kibria5", 
+            "github": "kibria5", 
+            "telegram": "kibria5", 
+            "XDA": "https://forum.xda-developers.com/m/kibria123.11484159/", 
+            "role": "Violet Maintainer", 
+            "tagline": "idk what i'm doing" 
          }
     ]
 }
