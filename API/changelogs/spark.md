@@ -1,5 +1,36 @@
-# Version 13.1
+# Version 13.2 
+- Merged November security patch
+- Updated translations from crowdin
+- Fixed audio playback control on screen off
+- Addeded an option to use HEVC for screen recorder
+- Added charging icon to charging animation
+- Added the ability to toggle bluetooth battery level
+- Fixed the bluetooth hiding toggle
+- Added some more monet presets
+- Improve color detection for monet
+- Introduced Pulse
+- Improved some system animations
+- Introduced Ls shortcuts customization
+- Introduced optional Qs system info
+- Introduced app lock and Face unlock
+- Added vibration pattern customization
+- Reworked Ls clocks and added more customization options
+- Added an option to display data usage on qs panel
+- Recolored the privacy indicators and made them optional
+- Reworked OmniJaws weather implementation
+- Added reticker styles
+- Reworked the volume panel and added customizations for it
+- Added more battery styles
+- Optimized auth ripple animation
+- Added user configurable fingerprint wake-and-unlock
+- Implemented Bluetooth dialog
+- Added more fonts and icon shapes
+- Optimized qsb on Launcher3
+- Fixed some crashes on fireworks
+- Added toggle to switch between AOSP/Google battery graphs 
+- More under the hood changes and improvements
 
+# Version 13.1
 - Merged October Security Patch
 - Introduced GmsCompat and microG support
 - Fixed Google Photos Spoofing
