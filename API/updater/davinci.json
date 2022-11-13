@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.1-Official-davinci-20221011-gapps.zip",
-    "datetime": 1665471465,
-    "size": 2052177822,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.1-Official-davinci-20221011-gapps.zip",
+    "filename": "Spark-13.2-Official-davinci-20221113-gapps.zip",
+    "datetime": 1668365714,
+    "size": 2113907209,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.2-Official-davinci-20221113-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "971fc8c774471387ed555a3f5a025644",
-    "id": "971fc8c774471387ed555a3f5a025644",
+    "filehash": "171c0bd95fc7dfc3349210b192ee2c6f",
+    "id": "171c0bd95fc7dfc3349210b192ee2c6f",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "https://PayPal.me/spyroskal",
     "website_url": "https://spark-os.live/",
     "news_url": "https://t.me/SparkOSChannel",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-0-official-sparkos-aosp-stable-11-10-2022.4504129/"
 }
