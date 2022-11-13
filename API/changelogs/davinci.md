@@ -1,3 +1,6 @@
+# 13-Nov-2022
+- Upstreamed Kernel
+
 # 11-Oct-2022
 - Source Upstream
 
