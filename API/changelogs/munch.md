@@ -1,3 +1,13 @@
+# 13-Nov-2022
+- Fixed Front camera resolution
+- Fixed 64mp mode
+- Fixed 4k 30 fps and front cam video 
+- Enabled system info
+- Switched to NoKernel
+- Optimized power hint
+- Improved battery drain on aod
+- Introduced Hbm mode
+
 # 25-Oct-2022
 - Introduced MiuiCam
 - Enabled smart Charging
