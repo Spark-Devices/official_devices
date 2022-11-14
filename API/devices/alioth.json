@@ -4,6 +4,11 @@
             "display_name": "Ziad Fekry",
             "telegram": "https://t.me/ZiadFekry",
             "github": "https://github.com/Ziad-Fekry"
+        },
+        {
+            "display_name": "darkphnx",
+            "telegram": "https://t.me/darkphnx",
+            "github": "https://github.com/darkphnx"
         }
     ],
     "updater": true,
