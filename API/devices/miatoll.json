@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "popoASM",
             "telegram": "https://t.me/popoASM",
@@ -13,8 +13,8 @@
     "device_display_name": "Miatoll",
     "device_display_codename": "miatoll",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/",
-    "last_updated": "27 October 2022",
-    "private_download_tag": "miatoll_20221027_1114",
+    "last_updated": "14 November 2022",
+    "private_download_tag": "miatoll_20221114_1219",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
