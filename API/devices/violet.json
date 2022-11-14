@@ -1,21 +1,21 @@
-{ 
-    "maintainer":[ 
-        { 
-            "display_name": "kibria5", 
-            "telegram": "https://t.me/kibria5", 
-            "github": "https://github.com/kibria5" 
-        } 
-    ], 
-    "updater": true, 
-    "beta": false, 
-    "version": "thirteen", 
-    "release": "monthly", 
-    "device_display_name": "Redmi Note 7 Pro", 
-    "device_display_codename": "violet", 
-    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/violet/", 
-    "last_updated": "30 October 2022", 
-    "private_download_tag": "violet_20221030_0258", 
-    "active": true, 
-    "xda": null, 
-    "customRecoveryRequired": true 
+{
+    "maintainer": [
+        {
+            "display_name": "kibria5",
+            "telegram": "https://t.me/kibria5",
+            "github": "https://github.com/kibria5"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 7 Pro",
+    "device_display_codename": "violet",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/violet/",
+    "last_updated": "14 November 2022",
+    "private_download_tag": "violet_20221114_2218",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
 }
