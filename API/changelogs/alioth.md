@@ -1,3 +1,7 @@
+# 15-Nov-2022
+- fix blur not showing 
+- removed Gcam and  Graphene OS cam
+
 # 14-Nov-2022
 -Enabled system info
 -Drop updateable GPU drivers
