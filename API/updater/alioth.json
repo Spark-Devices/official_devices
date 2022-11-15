@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.2-Official-alioth-20221114-gapps.zip",
-    "datetime": 1668432925,
-    "size": 2027911893,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-13.2-Official-alioth-20221114-gapps.zip",
+    "filename": "Spark-13.2-Official-alioth-20221115-gapps.zip",
+    "datetime": 1668525547,
+    "size": 1953177073,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-13.2-Official-alioth-20221115-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "081faeac4e2c0c5ec434b7a34be080c5",
-    "id": "081faeac4e2c0c5ec434b7a34be080c5",
+    "filehash": "418544177fca86c9ff70e29e6c754e39",
+    "id": "418544177fca86c9ff70e29e6c754e39",
     "maintainers": [
         {
             "main_maintainer": false,
