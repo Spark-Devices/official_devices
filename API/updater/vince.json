@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.1-Official-vince-20221011-gapps.zip",
-    "datetime": 1665498269,
-    "size": 1327877928,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-13.1-Official-vince-20221011-gapps.zip",
+    "filename": "Spark-13.2-Official-vince-20221115-gapps.zip",
+    "datetime": 1668495180,
+    "size": 1386121237,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-13.2-Official-vince-20221115-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "cf0de77f6d49b71f1ba051e0571d7aa7",
-    "id": "cf0de77f6d49b71f1ba051e0571d7aa7",
+    "filehash": "14d369b1b3eb20db70e6b40c2faeace5",
+    "id": "14d369b1b3eb20db70e6b40c2faeace5",
     "maintainers": [
         {
             "main_maintainer": false,
