@@ -1,3 +1,18 @@
+# 15-Nov-2022
+- Switch to Laboratory kernel by Einar G. (v4.14.299)
+- Add GPU OC & UV
+- Enable zram LZ4 compression
+- Switch to trb clang
+- Include privapp permissions for ZuiCamera
+- Enable zygote critical window
+- Migrate to AIDL ClearKey DRM HAL
+- Enable camera EIS
+- Fixup zram denials
+- Fix racy init in livedisplay
+- Enable system info
+- Update overlay for multiple vibration intensities
+- Remove some prebuilt packages (Maps, Drive, YouTube, GoogleFeedback, TipsPrebuilt)
+
 # 11-Oct-2022
 - Fix usb dual role switch (data transfer issue)
 - Include FM radio app
