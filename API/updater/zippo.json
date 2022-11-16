@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.2-Official-zippo-20221114-gapps.zip",
-    "datetime": 1668465620,
-    "size": 1740111387,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-13.2-Official-zippo-20221114-gapps.zip",
+    "filename": "Spark-13.2-Official-zippo-20221115-gapps.zip",
+    "datetime": 1668539642,
+    "size": 1739745068,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-13.2-Official-zippo-20221115-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "1d507c6a9e1dc77dc04a4a3e29358928",
-    "id": "1d507c6a9e1dc77dc04a4a3e29358928",
+    "filehash": "8d36eb7de6fda0683baa001a89d10ccc",
+    "id": "8d36eb7de6fda0683baa001a89d10ccc",
     "maintainers": [
         {
             "main_maintainer": false,
