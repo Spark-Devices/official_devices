@@ -1,3 +1,10 @@
+# 16-Nov-2022
+- Upstream trees with LOS
+- Rework popup camera parts
+- Introduce HBM & DC Dimming
+- Fixed screen off FOD
+- Upstream kernel (thanks John Macka for this!)
+
 # 11-Oct-2022
 - upstreamed trees with LOS
 - switched to immensity kernel (thanks Macka76 for his work)
