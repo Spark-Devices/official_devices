@@ -1,3 +1,18 @@
+# 16-Nov-2022
+- Switch to Laboratory kernel by Einar G. (v4.14.299)
+- Add GPU OC & UV
+- Enable zram LZ4 compression
+- Switch to trb clang
+- Include privapp permissions for ZuiCamera
+- Enable zygote critical window
+- Migrate to AIDL ClearKey DRM HAL
+- Enable camera EIS
+- Fixup zram denials
+- Fix racy init in livedisplay
+- Enable system info
+- Update overlay for multiple vibration intensities
+- Remove some prebuilt packages (Maps, Drive, YouTube, GoogleFeedback, TipsPrebuilt)
+
 # 15-Nov-2022
 - Switch to Laboratory kernel by Einar G. (v4.14.299)
 - Add GPU OC & UV
