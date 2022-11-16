@@ -1,13 +1,9 @@
-# 15-Nov-2022
-- fix blur not showing 
-- removed Gcam and  Graphene OS cam
-
 # 14-Nov-2022
--Enabled system info
--Drop updateable GPU drivers
--Use HintManager for HWUI
--disable BT SAP server
--Fix Deepsleep with bluetooth on 
+- Enabled system info
+- Drop updateable GPU drivers
+- Use HintManager for HWUI
+- Disable BT SAP server
+- Fix Deepsleep with bluetooth on 
 - Power: Decrease launch boost to 3sec
 - Kill IMS logspam with fire
 - Add xiaomi cit sensor service
