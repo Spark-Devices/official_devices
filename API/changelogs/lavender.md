@@ -1,3 +1,20 @@
+# 18-Nov-2022
+- Improved phase offsets configuration in order to improve smoothness;
+- Fixed Sound Amplification Control from Xiaomi Parts;
+- Fixed wallpaper zoom tune option;
+- Disabled Skia tracing by default;
+- Dropped WFD protected buffers support;
+- Mapped Button Jack keylayout to fix headset button control;
+- Added system call to the SE whitelist;
+- Allowed syscalls needed by OMX component;
+- Added permissions for RCS service;
+- Added net_raw permissions for time_daemon service;
+- Updated some rootdir configs;
+- Disabled safe volume everywhere, not just the US;
+- Show memory usage in app info;
+- Used S theme in thermal settings;
+- Fixed incoming calls;
+
 # 15-Oct-2022
 - overlay: Don't show vendor mismatch message
 - props: Enable zygote critical window property
