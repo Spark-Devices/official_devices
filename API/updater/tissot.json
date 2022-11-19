@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.1-Official-tissot-20221012-gapps.zip",
-    "datetime": 1665574540,
-    "size": 1141427587,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/tissot/Spark-13.1-Official-tissot-20221012-gapps.zip",
+    "filename": "Spark-13.2-Official-tissot-20221118-gapps.zip",
+    "datetime": 1668793103,
+    "size": 1185926557,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/tissot/Spark-13.2-Official-tissot-20221118-gapps.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "81ce521681910cf98cd6984869bfa2f8",
-    "id": "81ce521681910cf98cd6984869bfa2f8",
+    "filehash": "fa06dd85d076fe949f8ef2d5ed612fb7",
+    "id": "fa06dd85d076fe949f8ef2d5ed612fb7",
     "maintainers": [
         {
             "main_maintainer": false,
