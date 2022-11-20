@@ -107,6 +107,15 @@
           "maintainer_name" : "kibria5", 
           "frame" : null, 
           "active" : true 
+         },
+         {
+          "codename" : "polaris",
+          "codename_alt" : "polaris",
+          "vendor" : "Xiaomi",
+          "model" : "MI MIX 2S",
+          "maintainer_name" : "bittencourtjulival",
+          "frame" : null,
+          "active" : true
          }
     ]
 }
