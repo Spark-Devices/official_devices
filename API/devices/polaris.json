@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "bittencourtjulival",
+            "telegram": "https://t.me/bittencourtjulival",
+            "github": "https://github.com/bittencourtjulival"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "MI MIX 2S",
+    "device_display_codename": "polaris",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/polaris/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
