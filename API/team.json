@@ -111,6 +111,14 @@
             "XDA": "https://forum.xda-developers.com/m/kibria123.11484159/", 
             "role": "Violet Maintainer", 
             "tagline": "idk what i'm doing" 
+         },
+         {
+            "name" : "Julival Bittencourt",
+            "github": "bittencourtjulival",
+            "telegram": "bittencourtjulival",
+            "XDA": "https://forum.xda-developers.com/m/julivalb.10511423/",
+            "role": "Polaris Maintainer",
+            "tagline": "I just do what I like"
          }
     ]
 }
