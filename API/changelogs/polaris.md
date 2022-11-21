@@ -1,3 +1,6 @@
+# 21-Nov-2022
+- Initial build
+
 # Clean flash:
 - Flash recovery (link is above)
 - Download ROM from the link above
