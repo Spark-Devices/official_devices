@@ -1,46 +1,46 @@
 [
-  {
-    "title": "Performace",
-    "description": "We have plenty of system wide performace tweaks that apply to every device"
-  },
-  {
-    "title": "Battery",
-    "description": "We are including many battery opimizations which help your device last all day long"
-  },
-  {
-    "title": "Launcher",
-    "description": "Builds are being shipped with our very own SparkLauncher that packs many usefull options"
-  },
-  {
-    "title": "User Interface",
-    "description": "Spark offers a different look than stock aosp"
-  },
-  {
-    "title": "Security",
-    "description": "Spark includes the latest security patches released by google"
-  },
-  {
-    "title": "Customizations",
-    "description": "We have plenty of Customizations built in on Spark that can be easily reached through our Fireworks app"
-  },
-  {
-    "title": "SparkWallPapers",
-    "description": "Spark builds include amazing exclusive spark wallpapers on a variety of colors and designs"
-  },
-  {
-    "title": "Build Flavors",
-    "description": "Each device has both vanilla and gapps builds suited for everyones liking"
-  },
-  {
-    "title": "PixelExclusives",
-    "description": "Spark includes major pixel only available feautures like unlimited gphotos and quick tap"
-  },
-  {
-    "title": "Privacy",
-    "description": "Spark comes packing with both app lock and face unlock"
-  },
-  {
-    "title": "AdBlock",
-    "description": "Spark has an inbuilt ad blocking option enjoy!"
-  }
+    {
+        "title": "Performace",
+        "description": "We have plenty of system wide performace tweaks that apply to every device"
+    },
+    {
+        "title": "Battery",
+        "description": "We are including many battery opimizations which help your device last all day long"
+    },
+    {
+        "title": "Launcher",
+        "description": "Builds are being shipped with our very own SparkLauncher that packs many usefull options"
+    },
+    {
+        "title": "User Interface",
+        "description": "Spark offers a different look than stock aosp"
+    },
+    {
+        "title": "Security",
+        "description": "Spark includes the latest security patches released by google"
+    },
+    {
+        "title": "Customizations",
+        "description": "We have plenty of Customizations built in on Spark that can be easily reached through our Fireworks app"
+    },
+    {
+        "title": "SparkWallPapers",
+        "description": "Spark builds include amazing exclusive spark wallpapers on a variety of colors and designs"
+    },
+    {
+        "title": "Build Flavors",
+        "description": "Each device has both vanilla and gapps builds suited for everyones liking"
+    },
+    {
+        "title": "PixelExclusives",
+        "description": "Spark includes major pixel only available feautures like unlimited gphotos and quick tap"
+    },
+    {
+        "title": "Privacy",
+        "description": "Spark comes packing with both app lock and face unlock"
+    },
+    {
+        "title": "AdBlock",
+        "description": "Spark has an inbuilt ad blocking option enjoy!"
+    }
 ]
