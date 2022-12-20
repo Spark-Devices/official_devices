@@ -1,3 +1,6 @@
+# 20-Dec-2022
+- Plenty of under the hood improvements aimed to improve performance and battery backup
+
 # 13-Nov-2022
 - Fixed Front camera resolution
 - Fixed 64mp mode
