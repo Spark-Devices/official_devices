@@ -161,7 +161,7 @@ def post_maker(device_info, name):
             gapps_rom_file_size = float(asset["size"]) * 0.00000000093132
         elif asset["name"].endswith(".zip"):
             ROM_NAME = asset["name"]
-            vanilla_file_size = float(asset["size"]) * 0.00000000093132
+            vanilla_rom_file_size = float(asset["size"]) * 0.00000000093132
             upload_date = asset["created_at"]
 
     message = message + "\n<b>Upload Date:</b> " + \
