@@ -1,3 +1,10 @@
+# Version 13.3
+- Completely rebased our source on top of December security patch
+- Fixed some bugs
+- Temporarilly remove some features
+- Improve overall system stability
+- Added some new sweet customizations
+
 # Version 13.2 
 - Merged November security patch
 - Updated translations from crowdin
