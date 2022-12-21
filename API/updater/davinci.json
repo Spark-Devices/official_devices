@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.2-Official-davinci-20221113-gapps.zip",
-    "datetime": 1668365714,
-    "size": 2113907209,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.2-Official-davinci-20221113-gapps.zip",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "171c0bd95fc7dfc3349210b192ee2c6f",
-    "id": "171c0bd95fc7dfc3349210b192ee2c6f",
+    "filename": "Spark-13.3-Official-davinci-20221221-gapps.zip",
+    "datetime": 1671635730,
+    "size": 2138770604,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.3-Official-davinci-20221221-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2022-12-21/Spark-13.3-Official-davinci-20221221-gapps.zip",
+    "filehash": "694f18e1cd16f44ed9bf2f91f83fe83d",
+    "id": "694f18e1cd16f44ed9bf2f91f83fe83d",
     "maintainers": [
         {
             "main_maintainer": false,
