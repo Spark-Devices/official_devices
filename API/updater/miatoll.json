@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.2-Official-miatoll-20221114-gapps.zip",
-    "datetime": 1668407324,
-    "size": 1931382904,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/Spark-13.2-Official-miatoll-20221114-gapps.zip",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "1a52bc870275c2e186874d506d2a1764",
-    "id": "1a52bc870275c2e186874d506d2a1764",
+    "filename": "Spark-13.3-Official-miatoll-20221221-gapps.zip",
+    "datetime": 1671610383,
+    "size": 1955860549,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/miatoll/Spark-13.3-Official-miatoll-20221221-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2022-12-21/Spark-13.3-Official-miatoll-20221221-gapps.zip",
+    "filehash": "97c9a4fa7dd7fa71fba7d06c5f8f92a5",
+    "id": "97c9a4fa7dd7fa71fba7d06c5f8f92a5",
     "maintainers": [
         {
             "main_maintainer": false,
