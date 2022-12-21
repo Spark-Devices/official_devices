@@ -1,3 +1,13 @@
+# 21-Dec-2022
+- Firmware included
+- Battery consumption improvements
+- Enabled Pre-rendering feature
+- Optimized parameters  for kryo385
+- Lower LED brightness
+- Fixed camera lag in IM apps.
+- Kernel upstreamed to 4.9.334
+-  Other kernel-related improvements
+
 # 21-Nov-2022
 - Initial build
 
