@@ -1,3 +1,19 @@
+# 21-Dec-2022
+- Add Max visible notification icons  
+- smoother scrolling and better responsiveness  
+- Set Google autofill service as default  
+- Switch to Azure kernel  
+- Fix Fingerprint Wake-up Animation   
+- Implement Clear Speaker  
+- Disable UI touch haptic feedback by default  
+- Disabled dial pad tones by default  
+- Disabled screen locking sounds by default  
+- Enabled vibrate for calls by default  
+- Disable sf auto latch_unsignaled  
+- Enable display force split  
+- Remove Graphene Camera  
+- Other fixes and improvement
+
 # 14-Nov-2022
 -Drop overlays for Battery health 
 -Adapt unsignaled buffer latch property to Android 13  
