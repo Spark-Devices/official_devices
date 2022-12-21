@@ -1,3 +1,13 @@
+# 21-Dec-2022
+- Update kernel to 4.14.302 and latest CAF tags
+- Enable IncrementalFS
+- Remove setting for Adaptive Connectivity
+- Adapt parts for compilation after QPR1 merged
+- Tweak the night sight values 
+- Drop component overrides
+- Stop including Graphene camera
+- Stop including GoogleCalendar in GApps version
+
 # 16-Nov-2022
 - Switch to Laboratory kernel by Einar G. (v4.14.299)
 - Add GPU OC & UV
