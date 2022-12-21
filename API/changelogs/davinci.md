@@ -1,3 +1,7 @@
+# 21-Dec-2022
+- Enabled system info
+- Updated vantom kernel
+
 # 13-Nov-2022
 - Upstreamed Kernel
 
