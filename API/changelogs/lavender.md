@@ -1,3 +1,12 @@
+# 25-Dec-2022
+- blobs: Update RIL stack
+- system: Improvements on smooth and ram management
+- parts: Fix compilation for QPR1 merge
+- manifest: Uprev android.hardware.radio to 1.5
+- rootdir: set default wifi country code to '00'
+- props: Set some graphic/lmk configs
+- Fixed camera freezes
+
 # 18-Nov-2022
 - Improved phase offsets configuration in order to improve smoothness;
 - Fixed Sound Amplification Control from Xiaomi Parts;
