@@ -1,3 +1,8 @@
+# 29-Dec-2022
+- Upstream kernel
+- Fix some denials
+- Add back removed apps on gapps build
+
 # 17-Nov-2022
 - Upstream trees with LOS
 - Rework popup camera parts
