@@ -1,3 +1,8 @@
+# 30-Dec-2022
+- Increased overall smoothness
+- Fixed Bluetooth
+- Fixed back gestures vibrations
+
 # 21-Dec-2022
 - December Update
 
