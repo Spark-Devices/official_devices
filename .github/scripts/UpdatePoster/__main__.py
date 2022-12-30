@@ -156,6 +156,9 @@ def post_maker(device_info, name):
             RECOVERY_NAME = asset["name"]
         elif asset["name"].__contains__("SparkOS.part"):
             gapps_rom_file_size = rom_file_size + float(asset["size"]) * 0.00000000093132
+        elif asset["name"].endswith("gapps.zip"):
+            ROM_NAME = asset["name"]
+            gapps_rom_file_size = float(asset["size"]) * 0.00000000093132
         elif asset["name"].endswith(".zip"):
             ROM_NAME = asset["name"]
             vanilla_rom_file_size = float(asset["size"]) * 0.00000000093132
