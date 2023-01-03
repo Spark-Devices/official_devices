@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "KSSRAO",
+            "telegram": "https://t.me/kssrao13882",
+            "github": "https://github.com/kssrao13882"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Realme 5 Pro",
+    "device_display_codename": "RMX1971",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/RMX1971/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
