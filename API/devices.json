@@ -118,22 +118,22 @@
             "active": true
         },
         {
-            "codename" : "RMX1971",
-            "codename_alt" : "RMX1971",
-            "vendor" : "Realme",
-            "model" : "Realme 5 Pro",
-            "maintainer_name" : "KSSRAO",
-            "frame" : null,
-            "active" : true
-         },
-         {
-            "codename" : "spes",
-            "codename_alt" : "spesn",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 11",
-            "maintainer_name" : "sayann70",
-            "frame" : null,
-            "active" : true
-          }
+            "codename": "RMX1971",
+            "codename_alt": "RMX1971",
+            "vendor": "Realme",
+            "model": "Realme 5 Pro",
+            "maintainer_name": "KSSRAO",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "spes",
+            "codename_alt": "spesn",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11",
+            "maintainer_name": "sayann70",
+            "frame": null,
+            "active": true
+        }
     ]
 }
