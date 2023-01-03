@@ -52,7 +52,7 @@ UniqueID = "private_download_tag"
 
 # Inititalize the bot
 bot = Bot(BOT_API)
-updater = Updater(BOT_API, workers=1)
+updater = Updater(BOT_API)
 dispatcher = updater.dispatcher
 
 
