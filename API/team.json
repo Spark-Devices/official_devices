@@ -119,6 +119,22 @@
             "XDA": "https://forum.xda-developers.com/m/julivalb.10511423/",
             "role": "Polaris Maintainer",
             "tagline": "I just do what I like"
+        },
+        {
+            "name" : "KSSRAO",
+            "github": "kssrao13882",
+            "telegram": "kssrao13882",
+            "XDA": "https://forum.xda-developers.com/m/kssrao13882.11649931/",
+            "role": "Realme 5 Pro Maintainer",
+            "tagline": "Tech Enthusiast from Coimbatore"
+        },
+        {
+            "name" : "sayann70",
+            "github": "sayann70",
+            "telegram": "sayann70",
+            "XDA": "https://forum.xda-developers.com/m/sayann70.11714327/",
+            "role": "spes maintainer",
+            "tagline": "idk why i exist"
         }
     ]
 }
