@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Dep
-        run: sudo pip install python-telegram-bot
+        run: sudo pip3 install python-telegram-bot==12.0.0b1 --upgrade
 
       - name: Checkout Repo
         uses: actions/checkout@v2
