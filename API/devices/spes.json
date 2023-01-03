@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "sayann70",
+            "telegram": "https://t.me/sayann70",
+            "github": "https://github.com/sayann70"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 11",
+    "device_display_codename": "spes/spesn",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/spes/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
