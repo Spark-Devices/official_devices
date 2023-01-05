@@ -1,3 +1,12 @@
+# 05-Jan-2023
+- Added Non-Root ViPER4Android FX audio equalizer (means works without root).
+- Addressed some camera denials.
+- Improved wifi connection stability.
+- Fixed 5GHz Hotspot.
+- Fixed mic in discord and other voip apps.
+- Fixed vulkan API support.
+- Fixed Bootanimation lag.
+
 # 16-Nov-2022
 - Fixed freezing issues in some cases.
 - Tuned surfaceflinger props for smoothness and better response.
