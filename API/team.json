@@ -135,6 +135,14 @@
             "XDA": "https://forum.xda-developers.com/m/sayann70.11714327/",
             "role": "spes maintainer",
             "tagline": "idk why i exist"
-        }
+        },
+        {
+            "name" : "Semina Alexandru",
+            "github": "alexandrusemina",
+            "telegram": "semialex16",
+            "XDA": "https://forum.xda-developers.com/m/alexandrusemina8.10017700/",
+            "role": "Redmi note 11 Maintainer",
+            "tagline": "Learning every day (literally)"
+        },
     ]
 }
