@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.2-Official-vince-20221116-gapps.zip",
-    "datetime": 1668577647,
-    "size": 1386104078,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-13.2-Official-vince-20221116-gapps.zip",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "b815a0843a1bf4dd1d4b6859bf19815c",
-    "id": "b815a0843a1bf4dd1d4b6859bf19815c",
+    "filename": "Spark-13.3-Official-vince-20230105-gapps.zip",
+    "datetime": 1672927849,
+    "size": 1400935602,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/vince/Spark-13.3-Official-vince-20230105-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-01-05/Spark-13.3-Official-vince-20230105-gapps.zip",
+    "filehash": "53b57ce88312cf2a33127bb7245a5fb0",
+    "id": "53b57ce88312cf2a33127bb7245a5fb0",
     "maintainers": [
         {
             "main_maintainer": false,
