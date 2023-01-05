@@ -136,13 +136,13 @@
             "active": true
         },
         {
-            "codename" : "veux",
-            "codename_alt" : "veux",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 11 pro 5G / Poco X4 Pro 5G",
-            "maintainer_name" : "Semina Alexandru",
-            "frame" : null,
-            "active" : true
+            "codename": "veux",
+            "codename_alt": "veux",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11 pro 5G / Poco X4 Pro 5G",
+            "maintainer_name": "Semina Alexandru",
+            "frame": null,
+            "active": true
         }
     ]
 }
