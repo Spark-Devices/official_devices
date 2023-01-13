@@ -1,3 +1,38 @@
+# Version 13.4
+- Merged the January Security Patch
+- Corrected the unlocking animation for sideFps devices
+- Improved Battery level detection for bt Devices
+- Adressed some crashes when using the recording button in gamespace
+- Improved the Auth ripple animation
+- Introduced AOSP boost and memory optimization framework API
+- Added support for strict standby policy 
+- Synced anim durations with Nothing Phone 1
+- Added back our weather implementation
+- Added selectable ls clock fonts
+- Brought back the old media player seekbar animation
+- Made the squiggle animation optional
+- Added a toggle for hiding notification icons
+- Added configurable lockscreen clock color option
+- Made more elements follow the systems font
+- Added optional haptic feedback to volume panel
+- Improved the Bt tile
+- Fixed double tap to wake on doze
+- Fixed an issue where a white tint would appear in yt videos when adjusting the volume
+- Fixed an issue where old settings panel would overlap the volume dialogs default one
+- Added an option to pulse on new tracks
+- Improved the charging info impl 
+- Majorly Reworked our Launcher: It includes plenty of redesigns and a bunch of new options
+- Added support for custom themed icon pack selection
+- Introduced our SparkThemedIcons icon pack
+- Merged Crowdin translations
+- Revamped the Fireworks Ui
+- Added support for googles ultra battery saver
+- Added support for googles security hub
+- Added a toggle to switch between aosp and pixel battery graphs
+- Fixed an issue where battery page would appear empty
+- Added a new animation on dark mode settings
+- More under the hood improvements aimed to improve the overall systems stability
+
 # Version 13.3
 - Completely rebased our source on top of December security patch
 - Fixed some bugs
