@@ -1,3 +1,8 @@
+# 14-Jan-2023
+- Upstreamed kernel to latest 4.9.337 [EOL]
+- Fixed overall freezing issues.
+- Optimized system performance.
+
 # 22-Dec-2022
 - Added more Xiaomi parts features.
 - Updated Xiaomi parts translations.
