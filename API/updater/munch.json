@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.3-Official-munch-20221220-gapps.zip",
-    "datetime": 1671527110,
-    "size": 2138541725,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.3-Official-munch-20221220-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2022-12-20/Spark-13.3-Official-munch-20221220-gapps.zip",
-    "filehash": "a49470b0b0cea9145c8acc2ca61bf7a9",
-    "id": "a49470b0b0cea9145c8acc2ca61bf7a9",
+    "filename": "Spark-13.4-Official-munch-20230114-gapps.zip",
+    "datetime": 1673679091,
+    "size": 2168887714,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.4-Official-munch-20230114-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/munch/Spark-13.4-Official-munch-20230114-gapps.zip",
+    "filehash": "93288fdce61ce2be23054c8f36d20018",
+    "id": "93288fdce61ce2be23054c8f36d20018",
     "maintainers": [
         {
             "main_maintainer": false,
