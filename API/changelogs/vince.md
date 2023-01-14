@@ -1,3 +1,9 @@
+# 14-Jan-2023
+- Fixed no 2G/GSM option in Preferred Network Types.
+- Fixed Android Auto in GApps builds.
+- Removed unwanted graphics props.
+- Improved overall smootheness.
+
 # 05-Jan-2023
 - Added Non-Root ViPER4Android FX audio equalizer (means works without root).
 - Addressed some camera denials.
