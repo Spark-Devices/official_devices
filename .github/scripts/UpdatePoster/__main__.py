@@ -170,6 +170,8 @@ def post_maker(device_info, name):
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
     message = message + "\n\n<b>Download:</b> <a href=\"https://www.pling.com/p/1703061/" + "\">Pling</a>\n"
+    message = message + "\n\n<b>Changelog:</b> <a href=\"https://www.spark-os.live/downloads/" + device_info["device_display_codename"] + "\">Website</a>\n"
+  
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(gapps_rom_file_size)[0:4] + "G" + "/" + str(vanilla_rom_file_size)[0:4] + "G (Gapps/Vanilla)\n"
