@@ -1,3 +1,6 @@
+# 14-Jan-2023
+- Switched to leica miui camera
+
 # 20-Dec-2022
 - Plenty of under the hood improvements aimed to improve performance and battery backup
 
