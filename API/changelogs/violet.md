@@ -1,3 +1,10 @@
+# 15-Jan-2023
+- Fully rebased tree
+- MiuiCamera included
+- Uprev radio to v1.5
+- Redesign FPS Info
+- Set Window animation/transition scale to 0%
+
 # 21-Dec-2022
 - Add Max visible notification icons  
 - smoother scrolling and better responsiveness  
