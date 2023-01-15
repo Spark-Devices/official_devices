@@ -170,7 +170,7 @@ def post_maker(device_info, name):
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
     message = message + "\n\n<b>Download:</b> <a href=\"https://www.pling.com/p/1703061/" + "\">Pling</a>\n"
-    message = message + "\n\n<b>Changelog:</b> <a href=\"https://www.spark-os.live/downloads/" + device_info["device_display_codename"] + "\">Website</a>\n"
+    message = message + "<b>Changelog:</b> <a href=\"https://www.spark-os.live/download/" + device_info["device_display_codename"] + "\">Website</a>\n"
   
 
     # Download Sizes
