@@ -1,3 +1,17 @@
+# 15-Jan-2023
+- Add advanced_sf_offsets configuration. 
+- Tune powerhint - wifi: No BSS flush for 2018 devices. 
+- Set default Bluetooth name same as device market name. 
+- remove F2fsRecessModeEnable from powerhint. 
+- Dolby: Use correct prop for android 13. 
+- Remove inexistent lib from pinner list. 
+- Import missing audio prebuilts - Wip camera motor remnants. 
+- Tune dalvik values - update graphics_composer rules. 
+- Set correct default icon to per-app refresh rate.
+- audio: fixup audio io policy voip_rx flags.
+- Set BOARD_USES_ADRENO to true.
+- Make dolby work on BT.
+
 # 21-Dec-2022
 - Updated more Blobs from 13.0.8.0
 - follow status bar height on keyguard
