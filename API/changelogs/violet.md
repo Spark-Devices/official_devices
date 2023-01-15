@@ -1,4 +1,7 @@
 # 15-Jan-2023
+- Vibration & haptics setting crashing fixed
+
+# 15-Jan-2023
 - Fully rebased tree
 - MiuiCamera included
 - Uprev radio to v1.5
