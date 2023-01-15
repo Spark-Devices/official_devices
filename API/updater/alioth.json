@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.3-Official-alioth-20221220-gapps.zip",
-    "datetime": 1671553642,
-    "size": 1978924579,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-13.3-Official-alioth-20221220-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2022-12-21/Spark-13.3-Official-alioth-20221220-gapps.zip",
-    "filehash": "528c7b229bf1b7c69e25150990d52f75",
-    "id": "528c7b229bf1b7c69e25150990d52f75",
+    "filename": "Spark-13.4-Official-alioth-20230115-gapps.zip",
+    "datetime": 1673799793,
+    "size": 1985076214,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/alioth/Spark-13.4-Official-alioth-20230115-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-01-15/Spark-13.4-Official-alioth-20230115-gapps.zip",
+    "filehash": "d7b784fa77e3855b26dfe24e3192a67b",
+    "id": "d7b784fa77e3855b26dfe24e3192a67b",
     "maintainers": [
         {
             "main_maintainer": false,
