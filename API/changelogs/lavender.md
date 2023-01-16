@@ -1,3 +1,15 @@
+# 16-Jan-2023
+- keylayout: Fix button mapping for headphone control *again* 
+- rootdir: Enable suspend to RAM;
+- vendor: QPR1 related fixes
+- camera: Disable QTI perf lock usage in camera HAL
+- render: OpenGL is back for a smoother/fast render
+- init: Say goodbye to config_avoidGfxAccel as it responsable for some ui glitch's
+- rootdir: Remove unnecessary QTI logkit directories
+- wcnss: Clean up WCNSS_qcom_cfg.ini
+- rootdir: Drop nqnfcinfo service
+- powerhint: Adjust most part of configs for less consumption but still smooth
+
 # 25-Dec-2022
 - blobs: Update RIL stack
 - system: Improvements on smooth and ram management
