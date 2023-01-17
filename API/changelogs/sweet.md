@@ -1,3 +1,11 @@
+# 17-Jan-2023
+• Added Op Dolby Atmos
+• Leica Camera Default
+• Improves LZ4 compression for ramdisks
+• Update gps: merge LA.UM.9.1.r1-12300-SMxxx0.0
+• Added Kprofile on Batere Settings
+• Default Kernel Sleepy
+
 # 22-Dec-2022
 - Vantom Kernel 4.14.300
 - Enable System info
