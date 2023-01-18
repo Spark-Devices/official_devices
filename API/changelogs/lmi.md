@@ -1,3 +1,10 @@
+# 18-Jan-2023
+- Update XiaomiParts
+- Implement Clear Speaker
+- Fix disable popup camera led
+- Fix bluetooth HD audio
+- Source upstream
+
 # 29-Dec-2022
 - Upstream kernel
 - Fix some denials
