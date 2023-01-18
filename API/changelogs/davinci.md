@@ -1,3 +1,12 @@
+# 18-Jan-2023
+- Source upstream
+- Removed prebuilt yt
+- Completely reworked audio (Reworked Dolby + switched to 7.0 audio Hal)
+- Added Leica cam
+- Reworked the udfps implementation
+- Major under the hood improvements
+- Fixed udfps icon alignment on authentication dialogs
+
 # 21-Dec-2022
 - Enabled system info
 - Updated vantom kernel
