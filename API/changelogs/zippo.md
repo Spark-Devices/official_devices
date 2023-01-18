@@ -1,3 +1,9 @@
+# 18-Jan-2023
+- Fix GPU info not being shown in System Info
+- Fix laggy and blurred screen recordings
+- Remove from Settings the option for screen-off fingerprint
+- Improve the smoothness in the UI navigation
+
 # 21-Dec-2022
 - Update kernel to 4.14.302 and latest CAF tags
 - Enable IncrementalFS
