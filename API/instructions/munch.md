@@ -1,4 +1,5 @@
-# Clean flash:
+Clean flash ↓
+
 - Flash recovery (Latest Ofox)
 - Download ROM from the link above
 - Reboot to recovery
