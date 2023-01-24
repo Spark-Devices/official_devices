@@ -1,4 +1,4 @@
-Clean flash ↓
+# Clean flash ↓
 
 - Boot TWRP via fastboot (Official TWRP 3.5.2 Preffered)
 - Wipe Data/Cache/System
@@ -8,7 +8,7 @@ Clean flash ↓
 - Format data
 - Reboot and voila!
 
-Updating to a newer build (dirty flash) ↓
+# Updating to a newer build (dirty flash) ↓
 
 - Update via OTA Updater, or
 - Flash ROM zip (sideload)

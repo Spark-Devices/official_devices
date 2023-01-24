@@ -1,4 +1,4 @@
-Clean flash ↓
+# Clean flash ↓
 
 - Download the ROM
 - Reboot to recovery
@@ -10,7 +10,7 @@ Clean flash ↓
 - Install the ForcedEncryption disabler if you want to keep your Data unencrypted and be accesible from recovery (recovery doesn't mount encrypted Data partition in A12 so far)
 - Reboot System
 
-Updating to a newer build (dirty flash) ↓
+# Updating to a newer build (dirty flash) ↓
 
 - Update via OTA Updater, or
 - Download the ROM

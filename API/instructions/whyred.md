@@ -1,4 +1,4 @@
-Clean flash ↓
+# Clean flash ↓
 
 - Backup any important data u have
 - Download ROM from the link above
@@ -7,7 +7,7 @@ Clean flash ↓
 - Flash ROM zip
 - Reboot and voila!
 
-Updating to a newer build (dirty flash) ↓
+# Updating to a newer build (dirty flash) ↓
 
 - Update via OTA Updater, or
 - Flash ROM zip

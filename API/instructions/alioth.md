@@ -1,4 +1,4 @@
-Clean flash ↓
+# Clean flash ↓
 
 - Boot into twrp
 - Flash the latest firmware for your region
@@ -6,7 +6,7 @@ Clean flash ↓
 - Reboot to recovery
 - Format Data
 
-Updating to a newer build (dirty flash) ↓
+# Updating to a newer build (dirty flash) ↓
 
 - Boot into twrp
 - Flash rom and check auto flash

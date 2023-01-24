@@ -1,4 +1,4 @@
-Clean flash ↓
+# Clean flash ↓
 
 - Flash recovery (link is above)
 - Download ROM from the link above
@@ -8,7 +8,7 @@ Clean flash ↓
 - Flash FcryptV4(Decryption)
 - Boot into System.
 
-Updating to a newer build (dirty flash) ↓
+# Updating to a newer build (dirty flash) ↓
 
 - Update via OTA Updater, or
 - Flash ROM zip (sideload)
