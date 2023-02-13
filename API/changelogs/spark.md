@@ -1,3 +1,38 @@
+# Version 13.5
+- Merged February security patch
+- Refractored the standard wifi icon impl
+- Added support for lockscreen quick shortcuts
+- Updated some ui sounds from nothing and one Ui
+- Added a toggle for Android P system animations
+- Added a toggle to always force expand notifications
+- Added a seekBar to control the visibility of heads-up based on their performance
+- Added customization for ls clock format , top margin and size
+- Introduced spark system manager (Replaces spark idle manager)
+- Added customization for qs page transitions 
+- Added Xperia icon pack
+- Added an option to toggle notification headers
+- Introduced customization for statusbar max visible icons , padding 
+- Added smart CutOff 
+- Implemented firewall status bar indicator
+- Added screenshot tile
+- Added support for locking apps on recents
+- Added lockscreen date font customization 
+- Fixed a bug that would make fireworks back gesture redirect to settings menu
+- Added support for qs footer data usage
+- Added new qs styles 
+- Fixed safetynet
+- Improved ripple animation 
+- Improved coloring on the volume panel 
+- Address some force closes and npes
+- Added support for quick tap and many more pixel exclusive features
+- Redesigned our vanilla dialer and messages 
+- Fixed some font issues on email and etc 
+- Added more fonts 
+- Implemented lock and hidden apps on Launcher3
+- Improved quick space spacing 
+- Improved quick sb on Launcher3
+- Some bug fixes and optimizations aimed to improve system stability and battery
+
 # Version 13.4
 - Merged the January Security Patch
 - Corrected the unlocking animation for sideFps devices
