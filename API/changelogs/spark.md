@@ -1,11 +1,12 @@
 # Version 13.5
 - Merged February security patch
+- Merged crowdin translations 
 - Refractored the standard wifi icon impl
 - Added support for lockscreen quick shortcuts
 - Updated some ui sounds from nothing and one Ui
 - Added a toggle for Android P system animations
 - Added a toggle to always force expand notifications
-- Added a seekBar to control the visibility of heads-up based on their performance
+- Added a seekBar to control the visibility of heads-up based on their importance 
 - Added customization for ls clock format , top margin and size
 - Introduced spark system manager (Replaces spark idle manager)
 - Added customization for qs page transitions 
