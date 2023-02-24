@@ -1,3 +1,8 @@
+# 24-Feb-2023
+- Upstreamed kernel
+- Fixed screen off udfps
+- Upstreamed miuiCamera
+
 # 18-Jan-2023
 - Source upstream
 - Removed prebuilt yt
