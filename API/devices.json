@@ -143,6 +143,15 @@
             "maintainer_name": "Semina Alexandru",
             "frame": null,
             "active": true
-        }
+        },
+        {
+            "codename" : "phone1",
+            "codename_alt" : "phone1",
+            "vendor" : "Nothing",
+            "model" : "Nothing Phone(1)",
+            "maintainer_name" : "dhruvesh",
+            "frame" : null,
+            "active" : true
+         }
     ]
 }
