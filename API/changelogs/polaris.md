@@ -1,3 +1,10 @@
+# 24-Feb-2023
+- Show memory usage in app info
+- Brought back night light options
+- Optimized dex flags for faster startup
+- Changed profiles of some pre-built Google apps to speed.
+- Set automatic cache clear after dirty flash.
+
 # 14-Jan-2023
 - Kernel upstreamed to 4.9.337.
 - Enabled system information in QS.
