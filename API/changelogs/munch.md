@@ -1,3 +1,12 @@
+# 24-Feb-2023
+- Upstreamed Kernel 
+- Reworked Dolby and audio generally
+- Fixed an issue where audio would stop working on games
+- Updated vibrator impl from Xiaomi
+- Introduced kprofiles 
+- Improved HBM
+- Setted default rr to 120hz
+
 # 14-Jan-2023
 - Switched to leica miui camera
 
