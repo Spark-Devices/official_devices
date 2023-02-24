@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.4-Official-davinci-20230118-gapps.zip",
-    "datetime": 1674040077,
-    "size": 2296194716,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.4-Official-davinci-20230118-gapps.zip",
-    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.4-Official-davinci-20230118-gapps.zip",
-    "filehash": "ae7f41f1f205229ab597f49b072db04b",
-    "id": "ae7f41f1f205229ab597f49b072db04b",
+    "filename": "Spark-13.5-Official-davinci-20230224-gapps.zip",
+    "datetime": 1677255000,
+    "size": 2367866776,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.5-Official-davinci-20230224-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/davinci/Spark-13.5-Official-davinci-20230224-gapps.zip",
+    "filehash": "25e14e651deba9133f32021f7ca0d31c",
+    "id": "25e14e651deba9133f32021f7ca0d31c",
     "maintainers": [
         {
             "main_maintainer": false,
