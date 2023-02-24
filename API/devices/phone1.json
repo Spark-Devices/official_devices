@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Dhruvesh",
+            "telegram": "https://t.me/dhruvesh_23",
+            "github": "https://github.com/Dhruvesh16"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Nothing Phone(1)",
+    "device_display_codename": "phone1",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/phone1/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
