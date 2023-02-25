@@ -1,3 +1,9 @@
+# 25-Feb-2023
+- Switched to Revamped FMRadio (credits: iusmac)
+- Improved headset and earpiece volume a lil bit.
+- Increased call volume steps to 15.
+- And some miscellaneous fixes.
+
 # 15-Jan-2023
 - Fixed keyguard statusbar overlapping on Quick settings.
 - Fixed Privacy indicator dot spacing.
