@@ -1,3 +1,10 @@
+# 26-Feb-2023
+• Adjusted Left/Right Statusbar Paddigs
+• Reduced Rounded Corner Radius Size
+• Downgraded Prebuilt Kernel And Blobs From SPESNEEAGlobal V13.0.11.0
+• TWRP Causing Fastboot Issue Fixed
+• Some Misc Improvement
+
 # 28-Jan-2023
 - Some Fixes For Proximity Sensor 
 - Increased 5 GHz Network Signal Tolerance
