@@ -1,3 +1,9 @@
+# 26-Feb-2023
+- Merge 4.14.306 in kernel
+- Build kernel with TRB clang 17
+- Ship Graphene camera in vanilla builds and GCam in GApps-included builds
+- Add dynamic thermal profiles configuration
+
 # 18-Jan-2023
 - Fix GPU info not being shown in System Info
 - Fix laggy and blurred screen recordings
