@@ -1,3 +1,20 @@
+# 26-Feb-2023
+- February security patch 
+- Implement keyhandler for fingerprint shutter 
+- wifidisplay Disable protected buffers support  
+- Add two channels for echo referece 
+- Tune vibration pattern  
+- Add Dolby Atmos (From Sony Device) 
+- Enable world phone bool 
+- Make the UI smoother 
+- Enabe Battery Health  
+- Enabe system info 
+- Enable QR scanner shortcut in lock screen  
+- xcalibur-v2 kernel  
+- Nuke more packages (Google, Files, Chrome) 
+- Show memory usage in app info 
+- Improve Stability
+
 # 15-Jan-2023
 - Vibration & haptics setting crashing fixed
 
