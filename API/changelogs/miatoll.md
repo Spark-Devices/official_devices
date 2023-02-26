@@ -1,3 +1,8 @@
+# 26-Feb-2023
+- Improved Statusbar padding
+- Miui camera working
+- Misc. Fixes and Improvements
+
 # 17-Jan-2023
 - Source Upstream
 
