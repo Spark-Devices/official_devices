@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.5-Official-phone1-20230226-gapps.zip",
+    "datetime": 1677436042,
+    "size": 2142312818,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/phone1/Spark-13.5-Official-phone1-20230226-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-02-27/Spark-13.5-Official-phone1-20230226-gapps.zip",
+    "filehash": "32c555993ca3d73bc5d7cf1bd07a7bf8",
+    "id": "32c555993ca3d73bc5d7cf1bd07a7bf8",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Dhruvesh16",
+            "name": "Dhruvesh"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
