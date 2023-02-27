@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.4-Official-lmi-20230117-gapps.zip",
-    "datetime": 1673954492,
-    "size": 2371053732,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-13.4-Official-lmi-20230117-gapps.zip",
-    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-13.4-Official-lmi-20230117-gapps.zip",
-    "filehash": "645b18f803ddfb18aebf00c12766adbd",
-    "id": "645b18f803ddfb18aebf00c12766adbd",
+    "filename": "Spark-13.5-Official-lmi-20230227-gapps.zip",
+    "datetime": 1677515491,
+    "size": 2393198471,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-13.5-Official-lmi-20230227-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/lmi/Spark-13.5-Official-lmi-20230227-gapps.zip",
+    "filehash": "fcc05672d721be7acdfc7f11cc70780a",
+    "id": "fcc05672d721be7acdfc7f11cc70780a",
     "maintainers": [
         {
             "main_maintainer": false,
