@@ -1,3 +1,13 @@
+# 28-Feb-2023
+* Updated blobs from sweet V14.0.1.0.TKFEUXM
+* Leica Camera
+* Added translations for XiaomiParts
+* Adjust status bar padding once again (thanks Nayan)
+* Compiled kernel with playground clang 17
+* Op Dolby Atmos
+* Aghisna Default Kernel
+* Support KernelSU
+
 # 17-Jan-2023
 • Added Op Dolby Atmos
 • Leica Camera Default
