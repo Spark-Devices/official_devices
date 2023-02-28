@@ -1,3 +1,11 @@
+# 28-Feb-2023
+- thermal: Drop redundant qti implementation
+- thermal: Update thermal blobs from LA.UM.8 and lavender V11.0.1.0.QFGMIXM
+- system: Drop critical flags
+- light/qpnp (DT/Kernel): Update internal structure logic from Parvinder Singh implementation
+- overlay's: Introduce a new structure
+- BC: Disable flatten apex logic
+
 # 16-Jan-2023
 - keylayout: Fix button mapping for headphone control *again* 
 - rootdir: Enable suspend to RAM;
