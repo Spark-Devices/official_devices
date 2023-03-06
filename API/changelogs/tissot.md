@@ -1,3 +1,10 @@
+# 06-Mar-2023
+- CLEAN FLASH MANDATORY
+- Enabled vendor partition (Need to install vendor--adder.zip)
+- Switched to RevapmedFMRadio
+- Enabled QR scanner shortcut in lock screen 
+- Added some ViLTE and VoLTE improvements.
+
 # 14-Jan-2023
 - Upstreamed kernel to latest 4.9.337 [EOL]
 - Fixed overall freezing issues.
