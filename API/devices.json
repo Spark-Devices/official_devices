@@ -154,13 +154,13 @@
             "active": true
         },
         {
-            "codename" : "venus",
-            "codename_alt" : "venus",
-            "vendor" : "Xiaomi",
-            "model" : "Mi 11",
-            "maintainer_name" : "Alan Lin",
-            "frame" : null,
-            "active" : true
+            "codename": "venus",
+            "codename_alt": "venus",
+            "vendor": "Xiaomi",
+            "model": "Mi 11",
+            "maintainer_name": "Alan Lin",
+            "frame": null,
+            "active": true
         }
     ]
 }
