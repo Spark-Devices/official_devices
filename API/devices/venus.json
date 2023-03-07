@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Alan Lin",
+            "telegram": "https://t.me/miwu04",
+            "github": "https://github.com/miwu04"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Mi 11",
+    "device_display_codename": "venus",
+    "public_download": "https://sourceforge.net/projects/sparkosofficial/files/venus/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
