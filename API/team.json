@@ -151,6 +151,14 @@
             "XDA": "null",
             "role": "phone1 maintainer",
             "tagline": "spkal pro"
+        },
+        {
+            "name" : "Alan Lin",
+            "github": "miwu",
+            "telegram": "miwu",
+            "XDA": "https://forum.xda-developers.com/m/miwu04.12458023/",
+            "role": "venus Maintainer",
+            "tagline": "idk what i'm doing"
         }
     ]
 }
