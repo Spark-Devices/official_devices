@@ -1,3 +1,10 @@
+# 08-Mar-2023
+- Fixed soundtrigger related issues (thnx to unknown)
+- Fixed low microphone in some apps
+- Improved Statusbar padding
+- Added NotchBarKiller
+- Misc. Fixes and Improvements
+
 # 26-Feb-2023
 - Improved Statusbar padding
 - Miui camera working
