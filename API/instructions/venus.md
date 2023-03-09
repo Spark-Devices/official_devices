@@ -1,5 +1,5 @@
 # Clean flash:
-- Flash boot,dtbo,vendor_boot
+- Flash boot
 - Download ROM from the link above
 - Reboot to recovery
 - Flash ROM zip
