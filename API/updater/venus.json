@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.5-Official-venus-20230309-gapps.zip",
+    "datetime": 1678356272,
+    "size": 2292298312,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/venus/Spark-13.5-Official-venus-20230309-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/venus/Spark-13.5-Official-venus-20230309-gapps.zip",
+    "filehash": "155d003d0662c6a01d08b68e4943ecd7",
+    "id": "155d003d0662c6a01d08b68e4943ecd7",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "miwu04",
+            "name": "Alan Lin"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": ""
+}
