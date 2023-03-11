@@ -1,3 +1,28 @@
+# 11-Mar-2023
+- Implement DC Dimming support
+- Define OEM fast charge sysfs node
+- Label more battery supply & wakeup nodes
+- Label remaining power supply nodes
+- Adress a bunch of denials
+- resolve health HAL denials 
+- Import Xiaomi TouchFeature service
+- Add touch profiles for gaming and benchmarking
+- Use game thermal as fallback for GameSpace's listed apps
+- Set network mode to Global by default
+- Enable Rich-Communication Services 
+- Import Xiaomi DisplayFeature service 
+- Use QCOM implementation for audio effects
+- Switch to Xiaomi Vibrator implemetation & Update VibratorFeature libs from Miui Munch V14.0.1.0
+- Switch to vendor-defined color modes
+- Import QTI Mediacodecs
+- Import and switch to QTI Perf system
+- update QQS footer and offset values
+- Import displayfeature props
+- Import all Display Calibation configs
+- update Dax-Default
+- Enable voNR Calls support
+- Use FUSE passthrough mode by default
+
 # 15-Jan-2023
 - Add advanced_sf_offsets configuration. 
 - Tune powerhint - wifi: No BSS flush for 2018 devices. 
