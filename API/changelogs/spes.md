@@ -1,3 +1,14 @@
+# 19-Mar-2023
+- Imported Brightness Overlays From SPESGlobal V13.0.16.0-A11
+- Updated Rounded Corners For T
+- Reduced Minimum Brightness
+- Imported XiaomiParts From Xiaomi sdm845-common
+- Introduced Dirac Preferences
+- Added Support For hifi
+- Implemented dc dimming
+- Implemented Clear Speaker
+- Some Misc Improvement
+
 # 26-Feb-2023
 • Adjusted Left/Right Statusbar Paddigs
 • Reduced Rounded Corner Radius Size
