@@ -1,3 +1,12 @@
+# 19-Mar-2023
+- Enabled APEX compression
+- Enabe smart Pixels on QS
+- Add Launcher SystemUI and Settings to the speed profile 
+- Set OpenGL as HWUI rendering backend
+- Wlan: enable QPower and Deep Sleep at the same time.
+- Set the correct overlay setting for WIFI.
+- Some kernel improvements
+
 # 24-Feb-2023
 - Show memory usage in app info
 - Brought back night light options
