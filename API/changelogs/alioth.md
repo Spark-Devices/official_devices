@@ -1,3 +1,23 @@
+# 19-Mar-2023
+- removed QTI perf
+- update blobs from 14.0.7.0EU
+- Fix missing display config path
+- add missing vib_cal lib
+- Revert to previous color modes
+- revert back to old color modes settings
+- Fix YT video 2k/4k playback issue
+- tuned dolby sound 
+- Correct SoC manufacturer name
+- Compile out missing deps for libstagefrightdolby
+- Move to Qualcomm USB Audio Policy configuration
+- revert lahiana drivers (now can flash infinir kernel)
+- Enabled Qualcomm Truewireless and TWS+ feature 
+- Add advanced_sf_offsets configuration
+- Toggle Display Has HDR
+- Rework mi_thermals sepolicy 
+- Fix path for msm-irqbalance config file
+- enable VoLTE and VoWIFI support for Movistar
+
 # 11-Mar-2023
 - Implement DC Dimming support
 - Define OEM fast charge sysfs node
