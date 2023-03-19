@@ -1,3 +1,26 @@
+# Version 13.5.5
+- Retuned the ui of the ls affordance icons 
+- Reworked the app lock implementation
+- Added support for desktop mode
+- Retuned seekbar design
+- Made night light transition more gradual
+- Improved the ripple animation
+- Improved some ui animations
+- Updated oos clear all button design
+- Addressed some lags and issues that were caused of SparkSystemManager
+- Reworked Parallel space
+- Added support for toggling gms
+- Reworked edge haptics
+- Added support for clo boost fwk
+- Updated the colors and functionality of work profiles
+- Reworked the power menu implementation and added support for power Menu Styles
+- Merged crowdin translation updates
+- Updated SparkThemedIcons
+- Updated the lock app feature
+- Added support to set hotseat opacity in launcher
+- Reworked the recents ui style
+- More under the hood changes aimed to improve battery life and performance 
+
 # Version 13.5
 - Merged February security patch
 - Merged crowdin translations 
