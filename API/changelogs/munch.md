@@ -1,3 +1,20 @@
+# 19-Mar-2023
+- Switched to wrapped key data encryption (might need clean flash )
+- Upstreamed kernel
+- Updated blobs from miui14
+- Reworked the miuiCamera implementation
+- Added Xiaomi cit service
+- Tuned zram
+- enabled the use of dex2oat64
+- Improvements to wifi connection
+- Added support for dcDimming
+- Added support for touch profiles
+- Added support for high touch polling rate
+- Tuned down some debugging
+- Added support for Xiaomi touch feature
+- Reworked the available color modes
+- Carrier config changes for volte and vowifi in some countries
+
 # 24-Feb-2023
 - Upstreamed Kernel 
 - Reworked Dolby and audio generally
