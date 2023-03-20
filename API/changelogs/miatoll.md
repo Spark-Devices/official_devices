@@ -1,3 +1,6 @@
+# 20-Mar-2023
+- Misc. fixes and improvements
+
 # 08-Mar-2023
 - Fixed soundtrigger related issues (thnx to unknown)
 - Fixed low microphone in some apps
