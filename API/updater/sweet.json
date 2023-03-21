@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.5-Official-sweet-20230227-gapps.zip",
-    "datetime": 1677519486,
-    "size": 2095875098,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/sweet/Spark-13.5-Official-sweet-20230227-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-02-28/Spark-13.5-Official-sweet-20230227-gapps.zip",
-    "filehash": "e00042f3a71cf4ae12a14645abab93fd",
-    "id": "e00042f3a71cf4ae12a14645abab93fd",
+    "filename": "Spark-13.5.5-Official-sweet-20230320-gapps.zip",
+    "datetime": 1679347845,
+    "size": 2105316124,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/sweet/Spark-13.5.5-Official-sweet-20230320-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-03-21/Spark-13.5.5-Official-sweet-20230320-gapps.zip",
+    "filehash": "887e3912f37d0865658ace8a1ed1d7bb",
+    "id": "887e3912f37d0865658ace8a1ed1d7bb",
     "maintainers": [
         {
             "main_maintainer": false,
