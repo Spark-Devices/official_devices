@@ -1,3 +1,15 @@
+# 21-Mar-2023
+- Update clear speaker audio 
+- Disable Stereo channel support for voip
+- Checkout audio_io_policy from sweet
+- Add compress recording configurations 
+- Force show network traffic on statusbar 
+- Restore pre a13 battery warning threshold
+- Wifi Enable set channel on NDP setup 
+- Wifi Configure correct overlay configuration
+- Show battery percentage
+- azure-Discombobulated+ kernel
+
 # 26-Feb-2023
 - February security patch 
 - Implement keyhandler for fingerprint shutter 
