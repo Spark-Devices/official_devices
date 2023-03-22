@@ -1,3 +1,8 @@
+# 22-Mar-2023
+- Switch to LOS qcom sm8150 kernel
+- Upstream the kernel to v4.14.310
+- Update lz4 module to 1.9.4
+
 # 26-Feb-2023
 - Merge 4.14.306 in kernel
 - Build kernel with TRB clang 17
