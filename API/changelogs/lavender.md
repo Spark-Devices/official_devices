@@ -1,3 +1,20 @@
+# 23-Mar-2023
+- Cleanup all trash around DT
+- Switch to pixel powerhal
+- Rework perfd logic
+- Simplify power hint's
+- Drop all trash around Xiaomi Parts implementation and set basic Doze, Dirac and Thermal configs (what is really needed)
+- Update thermal blobs from lavender lavender V12.5.3.0.QFGMIXM and LA.UM.8.2.r1-06200-sdm660.0
+- Switch back to default aosp render (opengl) since skiagl it's causing systemui crashes following this
+- Enable prefer_idle as it can ease cpu freq and decrease energy consumption
+- Tune blkio as on google devices
+- Tune schedutil up/down ratelimits
+- Give the GPU more time to render the UI, resulting in less janks/lag
+- Fix PowerOffAlarm
+- overlay: Remove Manage Mobile Plan
+- Disable SF composition prediction model on 5.4 and lower
+- msm: camera_v2: Revert some patch's
+
 # 28-Feb-2023
 - thermal: Drop redundant qti implementation
 - thermal: Update thermal blobs from LA.UM.8 and lavender V11.0.1.0.QFGMIXM
