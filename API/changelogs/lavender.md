@@ -1,3 +1,6 @@
+# 24-Mar-2023
+- Set HWC setColorTrasnform as available
+
 # 23-Mar-2023
 - Cleanup all trash around DT
 - Switch to pixel powerhal
