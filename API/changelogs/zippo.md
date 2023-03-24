@@ -1,3 +1,7 @@
+# 24-Mar-2023
+- Enable ZSTD algorithm
+- Add exFAT support
+
 # 22-Mar-2023
 - Switch to LOS qcom sm8150 kernel
 - Upstream the kernel to v4.14.310
