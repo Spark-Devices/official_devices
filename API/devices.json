@@ -163,13 +163,13 @@
             "active": true
         },
         {
-            "codename" : "RMX2020",
-            "codename_alt" : "RMX2020",
-            "vendor" : "Realme",
-            "model" : "Realme C3 / Narzo 10A",
-            "maintainer_name" : "Koushik Dey",
-            "frame" : null,
-            "active" : true
+            "codename": "RMX2020",
+            "codename_alt": "RMX2020",
+            "vendor": "Realme",
+            "model": "Realme C3 / Narzo 10A",
+            "maintainer_name": "Koushik Dey",
+            "frame": null,
+            "active": true
         }
     ]
 }
