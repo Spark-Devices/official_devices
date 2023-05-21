@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Koushik Dey",
+            "telegram": "https://t.me/Koushikdey3",
+            "github": "https://github.com/Koushikdey2003"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Realme C3/Narzo 10A",
+    "device_display_codename": "RMX2020",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
