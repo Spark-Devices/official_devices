@@ -171,5 +171,14 @@
             "frame": null,
             "active": true
         }
+        {
+            "codename": "cepheus",
+            "codename_alt": "cepheus",
+            "vendor": "Xiaomi",
+            "model": "Mi 9",
+            "maintainer_name": "chematelegram",
+            "frame": null,
+            "active": true
+        }
     ]
 }
