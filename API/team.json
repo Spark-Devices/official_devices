@@ -159,6 +159,14 @@
             "XDA": "https://forum.xda-developers.com/m/miwu04.12458023/",
             "role": "venus Maintainer",
             "tagline": "Life is good, try to live well"
+        },
+        {
+            "name" : "Koushik Dey",
+            "github": "Koushikdey2003",
+            "telegram": "Koushikdey3",
+            "XDA": "https://forum.xda-developers.com/m/koushikdey.11163757/",
+            "role": "Maintainer",
+            "tagline": "Don't be so Negative"
         }
     ]
 }
