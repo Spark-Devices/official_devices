@@ -1,3 +1,8 @@
+# 22-May-2023
+- Upstreamed kernel 
+- Introduced a device side battery friendly pocket mode 
+- Improved some animations on qs
+
 # 19-Mar-2023
 - Switched to wrapped key data encryption (might need clean flash )
 - Upstreamed kernel
