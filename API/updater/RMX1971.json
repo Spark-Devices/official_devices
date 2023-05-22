@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.5.5-Official-RMX1971-20230318-gapps.zip",
-    "datetime": 1679174221,
-    "size": 1789909104,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX1971/Spark-13.5.5-Official-RMX1971-20230318-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-03-19/Spark-13.5.5-Official-RMX1971-20230318-gapps.zip",
-    "filehash": "e5f195fa9af088dad2dd94613b7f8e89",
-    "id": "e5f195fa9af088dad2dd94613b7f8e89",
+    "filename": "Spark-13.6-Official-RMX1971-20230521-gapps.zip",
+    "datetime": 1684676042,
+    "size": 1798540548,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX1971/Spark-13.6-Official-RMX1971-20230521-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-05-22/Spark-13.6-Official-RMX1971-20230521-gapps.zip",
+    "filehash": "b1a5e3f47ebca17328ca30689dbafd71",
+    "id": "b1a5e3f47ebca17328ca30689dbafd71",
     "maintainers": [
         {
             "main_maintainer": false,
