@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "ChemaF",
+            "telegram": "https://t.me/chematelegram",
+            "github": "https://github.com/chematelegram"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi 9",
+    "device_display_codename": "cepheus",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-13-cepheus-official-sparkos-21-05-23.4588447/",
+    "customRecoveryRequired": true
+}
