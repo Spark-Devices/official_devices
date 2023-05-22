@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.5-Official-veux-20230225-gapps.zip",
-    "datetime": 1677306250,
-    "size": 1825719397,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/veux/Spark-13.5-Official-veux-20230225-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-02-25/Spark-13.5-Official-veux-20230225-gapps.zip",
-    "filehash": "bab33e087cc3a0593dfe77a9b242c86d",
-    "id": "bab33e087cc3a0593dfe77a9b242c86d",
+    "filename": "Spark-13.6-Official-veux-20230521-gapps.zip",
+    "datetime": 1684704692,
+    "size": 1923018338,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/veux/Spark-13.6-Official-veux-20230521-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-05-22/Spark-13.6-Official-veux-20230521-gapps.zip",
+    "filehash": "8cb7fc0622d2a028028239da66f78b34",
+    "id": "8cb7fc0622d2a028028239da66f78b34",
     "maintainers": [
         {
             "main_maintainer": false,
