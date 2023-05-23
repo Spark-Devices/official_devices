@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.5.5-Official-violet-20230321-gapps.zip",
-    "datetime": 1679382634,
-    "size": 1877338260,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/violet/Spark-13.5.5-Official-violet-20230321-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-03-21/Spark-13.5.5-Official-violet-20230321-gapps.zip",
-    "filehash": "0a197040306f638e90b341b8eb0a1a59",
-    "id": "0a197040306f638e90b341b8eb0a1a59",
+    "filename": "Spark-13.6-Official-violet-20230522-gapps.zip",
+    "datetime": 1684794702,
+    "size": 2011714628,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/violet/Spark-13.6-Official-violet-20230522-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-05-23/Spark-13.6-Official-violet-20230522-gapps.zip",
+    "filehash": "c5774cb5c35056fc73df79ab366ee70a",
+    "id": "c5774cb5c35056fc73df79ab366ee70a",
     "maintainers": [
         {
             "main_maintainer": false,
