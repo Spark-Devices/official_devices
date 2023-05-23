@@ -1,3 +1,9 @@
+# 23-May-2023
+- Add summary in doze to warn about the pocket mode being needed for proximity events
+- Update kernel target level in manifest which fixes the warning about mismatch vendor
+- Switch to sepolicy_vndr-legacy-um
+- Merge Linux 4.14.315 and CLO 13500 in kernel
+
 # 24-Mar-2023
 - Enable ZSTD algorithm
 - Add exFAT support
