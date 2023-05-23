@@ -1,3 +1,43 @@
+# 23-May-2023
+- overlay: SystemUI -> SystemUIGoogle 
+- Use speed tuning for performance critical applications
+- Import multiple vibration intensity levels config for T 
+- Set block_binder_thread_on_incoming_calls in product.prop 
+- Configure default light sensor type 
+- Remove aptX(HD) encoder shared libs
+- Redefine bluetooth a2dp offload capabilities
+- Use Clang 17.0.0 to compile kernel 
+- Set 15 seconds as default screen timeout
+- enable ro.hwui.render_ahead to 10
+- audio: Correct routing order for voip output
+- Use primary input sources for voip_tx 
+- Checkout CarrierConfig to LA.QSSI.13.0.r1-08600-qssi.0 
+- Switch to stock acdb loader libs
+- Remove dsp. prefix from audio and video power profiles
+- Fix deprecated power profile items 
+- Update system blobs to LA.QSSI.13.0.r1-09400.01-qssi.0
+- reorder blob script: Stop treating subdirs as special during sort
+- Update vendor blobs to LA.UM.9.1.r1-12900-SMxxx0.0 
+- Drop Neural Network stack
+- Sync with stock audio props
+- audio: Remove dynamic attributes from APS config
+- audio: Set valid and supported channel mask for earpiece
+- audio: Fix mic issues in apps like WhatsApp
+- audio: Remove FM Tuner from input devices 
+- audio: Add FM Tuner to voip_tx input
+- Sync with stock audio configs
+- set ro.sf.lcd_density=420 
+- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc 
+- audio: Enable 24-bit for primary output and deep buffer 
+- audio: enforce 24-bit audio for offload playback 
+- wifi: Increase max bss count 
+- wifi: Disable BSS flush 
+- Don't Remove Velvet and Chrome-Stub
+- overlay: set combined QS to false
+- overlay: Adjust overlays for recently added light capability
+- Exclude lineage-sdk overlays from RRO
+- Mics changes and improvement
+
 # 21-Mar-2023
 - Update clear speaker audio 
 - Disable Stereo channel support for voip
