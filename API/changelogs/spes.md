@@ -1,3 +1,16 @@
+# 24-May-2023
+- Enabled Wide Color Gamut support
+- Disabled SF composition prediction model
+- Forced device to treat 170M as sRGB in SF
+- Compact cached app heaps in the background
+- Allowed more cached apps in the background
+- Register framebuffer lib to cached freq reporting
+- Removed UnityMain from sched_lib_name
+- Disabled AAudio MMAP
+- Removed OpenGL backpressure support
+- Added goodix events init boot script
+- Updated missing Display HAL blobs
+
 # 19-Mar-2023
 - Imported Brightness Overlays From SPESGlobal V13.0.16.0-A11
 - Updated Rounded Corners For T
