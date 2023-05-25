@@ -1,3 +1,18 @@
+# 25-May-2023
+- Tell vold we are done when we are actually done
+- Defer triggering WiFi load to HAL
+- Move qti_whitelist.xml to /system_ext
+- Give proper permissions for /dev/diag
+- Undefine BOARD_HAS_QCOM_WLAN
+- Revert Wifi PowerSaveOffload configs
+- Nuke DPM libshim and related
+- Deduplicate handheld_core_hardware.xml copy rule
+- Use MIUI poweroff charging animation from vayu
+- Remove unused tcp property change actions
+- Drop mediaextractor seccomp policy
+- Revise mediacodec seccomp policy
+- Improved our brightness logic
+
 # 24-Mar-2023
 - Set HWC setColorTrasnform as available
 
