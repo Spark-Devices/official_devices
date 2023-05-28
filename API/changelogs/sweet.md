@@ -1,3 +1,13 @@
+# 28-May-2023
+- Update blobs from MIUI V14.0.2.0.TKFMIXM
+- Update mixer_paths_idp.xml from MIUI V14.0.2.0.TKFMIXM
+- Update the s5kgw3 camera libraries from MIUI V14.0.1.0.TKFINXM
+- Enable refresh rate qs
+- Compile with clang banana
+- Upstream kernel into v4.14.315
+- Merge tag 'LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0'
+- Update KernelSU 10866
+
 # 21-Mar-2023
 - Updated blobs from sweet V14.0.2.0.TKFEUXM
 - Leica Camera
