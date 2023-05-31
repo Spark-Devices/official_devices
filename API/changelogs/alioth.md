@@ -7,6 +7,15 @@
 -  default color mode to automatic
 -  Overlays: add vendor-defined color mode as well
 
+# 31-May-2023
+- Add blkio tuning from sunfish
+- Dolby: Update Permissions
+- Disable QTI perf lock usage in camera HAL
+- fixup! value for debug.sf.enable_egl_image_tracker
+- Enable debug.sf.hw 
+-  default color mode to automatic
+-  Overlays: add vendor-defined color mode as well
+
 # 19-Mar-2023
 - removed QTI perf
 - update blobs from 14.0.7.0EU
