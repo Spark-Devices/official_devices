@@ -1,3 +1,11 @@
+# 02-Jun-2023
+- Switching to MIUI camera.
+-  Fixed Android auto. installation bug.
+- Updated blobs radio.
+- Fixed USB behavior.
+- Removed unnecessary aptX(HD).
+- Some features were removed will be brought back in next builds.
+
 # 19-Mar-2023
 - Enabled APEX compression
 - Enabe smart Pixels on QS
