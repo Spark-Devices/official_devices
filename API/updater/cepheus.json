@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "Spark-13.6-Official-cepheus-20230602-gapps.zip",
+    "datetime": 1685743611,
+    "size": 1859642073,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.6-Official-cepheus-20230602-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-06-03/Spark-13.6-Official-cepheus-20230602-gapps.zip",
+    "filehash": "f40d6e60c65c0bed44c47eaf7f119777",
+    "id": "f40d6e60c65c0bed44c47eaf7f119777",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "chematelegram",
+            "name": "ChemaF"
+        }
+    ],
+    "donate_url": "https://PayPal.me/spyroskal",
+    "website_url": "https://spark-os.live/",
+    "news_url": "https://t.me/SparkOSChannel",
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-cepheus-official-sparkos-21-05-23.4588447/"
+}
