@@ -1,3 +1,8 @@
+# 08-Jun-2023
+- Source upstream
+- Update vendor blobs from V14.0.1.0.SJKMIXM
+- Upstream kernel
+
 # 21-Mar-2023
 - Source upstream
 
