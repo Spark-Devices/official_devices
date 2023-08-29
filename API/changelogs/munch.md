@@ -1,3 +1,11 @@
+# 29-Aug-2023
+- Tuned powerhint
+- Enabled charging control
+- Reworked livedisplay hbm and dc dimming 
+- Added a toggle for fast charging
+- Upstreamed N0Kernel 
+- More under the hood changes and fixes
+
 # 22-May-2023
 - Upstreamed kernel 
 - Introduced a device side battery friendly pocket mode 
