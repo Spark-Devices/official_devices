@@ -1,3 +1,7 @@
+# 29-Aug-2023
+- Rebased to latest los trees 
+- Upstreamed kernel
+
 # 22-May-2023
 - Upstreamed miui camera 
 - Upstreamed kernel
