@@ -1,3 +1,7 @@
+# 13.7 
+- Qpr3 here we come
+- The most feature rich version of spark with everything included in 13.6 and hella more
+
 # Version 13.6
 - Completely rebased our source to the may security patch
 - Some features were added some were temporarily removed and some were reworked but in essence we are still hella customizable
