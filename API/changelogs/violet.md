@@ -1,3 +1,11 @@
+# 30-Aug-2023
+- Rebased tree
+- MiuiCamera Included
+- Moto Dolby Included
+- Switch to xcalibur-v2.4 kernel
+- KernelSU by default
+- N.B: Clean flash mandatory
+
 # 23-May-2023
 - overlay: SystemUI -> SystemUIGoogle 
 - Use speed tuning for performance critical applications
