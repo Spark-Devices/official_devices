@@ -1,3 +1,20 @@
+# 30-Aug-2023
+- Set preferred refresh rate on keyguard to 60
+- Use 60HZ refresh rate on Ambient display
+- Use default color composition space
+- Removed no longer needed aptX blobs
+- Disabled ART debug and optimize dexpreopt
+- Use default color composition space
+- Set default color mode to saturated
+- Added display fps deferral
+- Build lineage health HAL
+- Set vulkan as hwui renderer
+- Set screen-off schedutil ratelimits
+- Fixed some power supply related SELinux denials
+- Added entry for mounting sdcard in recovery
+- Enabled apk fs-verity
+- Enabled interaction boost
+
 # 24-May-2023
 - Enabled Wide Color Gamut support
 - Disabled SF composition prediction model
