@@ -1,3 +1,7 @@
+# 31-Aug-2023
+- Added lineage charging control
+- Some minor fixes and improvements
+
 # 30-May-2023
 - Fixed ViLTE or Carrier video calling
 - Addressed several sepolicy denials
