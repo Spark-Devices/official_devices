@@ -1,3 +1,13 @@
+# 31-Aug-2023
+- Patch Agust
+- Kernel based vantoman 4.14.323
+- Leica default camera
+- added op dolby & viper fx
+- Drop Kprofiles
+- configs: spatial audio: Update from cheetah-tq3a
+- update blobs from MIUI V14.0.4.0.TKFMIXM
+- KernelSU 11203
+
 # 28-May-2023
 - Update blobs from MIUI V14.0.2.0.TKFMIXM
 - Update mixer_paths_idp.xml from MIUI V14.0.2.0.TKFMIXM
