@@ -1,3 +1,11 @@
+# 31-Aug-2023
+- Switch to kernel qcom-sm8150 from LOS
+- Upstream kernel to 4.14.323
+- Build Aperture in vanilla builds
+- Update Moto Dolby
+- Use audio effects from qcom
+- Enable Charging Control
+
 # 23-May-2023
 - Add summary in doze to warn about the pocket mode being needed for proximity events
 - Update kernel target level in manifest which fixes the warning about mismatch vendor
