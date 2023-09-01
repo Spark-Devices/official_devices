@@ -1,3 +1,9 @@
+# 01-Sep-2023
+- Switched to latest Lineage kernel
+- Updated blobs to MIUI 13
+- Added support for the new charging control
+- Fixed EIS in camera apps
+
 # 20-Mar-2023
 - Misc. fixes and improvements
 
