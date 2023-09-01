@@ -1,3 +1,13 @@
+# 01-Sep-2023
+- Rebased trees
+- Updated kernel base
+- Updated parts translations
+- Fix Dirac
+- Removed HBM & DC Dimmng
+- Add popup motor calibration
+- Use V14.0.1.0.SJKMIXM  firmware
+- NB : CLEAN FLASH MANDATORY
+
 # 08-Jun-2023
 - Source upstream
 - Update vendor blobs from V14.0.1.0.SJKMIXM
