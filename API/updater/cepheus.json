@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.6-Official-cepheus-20230602-gapps.zip",
-    "datetime": 1685743611,
-    "size": 1859642073,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.6-Official-cepheus-20230602-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-06-03/Spark-13.6-Official-cepheus-20230602-gapps.zip",
-    "filehash": "f40d6e60c65c0bed44c47eaf7f119777",
-    "id": "f40d6e60c65c0bed44c47eaf7f119777",
+    "filename": "Spark-13.7-Official-cepheus-20230901-gapps.zip",
+    "datetime": 1693584692,
+    "size": 2184801280,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.7-Official-cepheus-20230901-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.7-Official-cepheus-20230901-gapps.zip",
+    "filehash": "d84ea14071439d0dabb91f4f7f6c6343",
+    "id": "d84ea14071439d0dabb91f4f7f6c6343",
     "maintainers": [
         {
             "main_maintainer": false,
