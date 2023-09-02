@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.6-Official-polaris-20230602-gapps.zip",
-    "datetime": 1685701604,
-    "size": 1996965193,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/polaris/Spark-13.6-Official-polaris-20230602-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-06-02/Spark-13.6-Official-polaris-20230602-gapps.zip",
-    "filehash": "93a546f83e6953f1c2ffe28640ba10bc",
-    "id": "93a546f83e6953f1c2ffe28640ba10bc",
+    "filename": "Spark-13.7-Official-polaris-20230901-gapps.zip",
+    "datetime": 1693588370,
+    "size": 2108022689,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/polaris/Spark-13.7-Official-polaris-20230901-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-09-02/Spark-13.7-Official-polaris-20230901-gapps.zip",
+    "filehash": "089bec6a567dd2587695983bed2ffb2b",
+    "id": "089bec6a567dd2587695983bed2ffb2b",
     "maintainers": [
         {
             "main_maintainer": false,
