@@ -1,3 +1,15 @@
+# 02-Sep-2023
+- Brought back vibration intensity control.
+- Brought back display feature of memory used by the app
+- Display battery health
+- Update graphics allocator
+- Added support for LiveDipsplay color profiles and advanced adjustments
+- Uprev ESEpowermanager
+- Switch SystemUI to SystemUIGoogle
+- Silenced some intrusive log spam
+- Fixed charging led
+- Enabled rendering ahead
+
 # 02-Jun-2023
 - Switching to MIUI camera.
 -  Fixed Android auto. installation bug.
