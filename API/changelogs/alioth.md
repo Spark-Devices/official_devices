@@ -1,3 +1,19 @@
+# 03-Sep-2023
+- Clean Flash required 
+- compiled kernel with neutron-clang 17
+- add and ship prebuilt textclassifier 
+-  Build lineage health HAL
+- Add toggle for fast charge 
+- Add lineage charging control
+- remove the pre-rendering prop
+- Remove redundant CHRE daemon
+- wlan: Enable Optimized Power Management 
+- completely remove libperfmgr from tree
+- update CarrierConfig from MIUI 14.0.7.0TKHMIXM 
+- Add missing ims blob
+- miuicamera: Address sepolicy denials
+- update & Fixed Language mismatch error in lecia cam
+
 # 31-May-2023
 - Add blkio tuning from sunfish
 - Dolby: Update Permissions
