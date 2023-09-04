@@ -1,3 +1,14 @@
+# 04-Sep-2023
+- Update ADSP from LA.UM.10.6.2.r1-01600-89xx.0
+- Update ANT+ from LA.UM.10.6.2.r1-01600-89xx.0
+- Update Perf stack from LA.UM.10.6.2.r1-01600-89xx.0
+- Update keystore from LA.UM.10.6.2.r1-01600-89xx.0
+- Update gatekeeper from LA.UM.10.6.2.r1-01600-89xx.0
+- Update wcnss_service from LA.UM.10.6.2.r1-01600-89xx.0
+- Switch to Nuwa DRM blobs 
+- Fix some denials
+- Some minor fixes and improvements
+
 # 22-Mar-2023
 - Source upstream
 
