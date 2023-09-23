@@ -1,3 +1,16 @@
+# 13.8
+- Merged September security patches
+- Redesigned Package Installer
+- Added optional double tap to doze
+- Added screenshot sound toggle
+- Improved Launcher
+- Adeed desktop mode
+- Improved toast notifications
+- Improved blur
+- Enabled split shade on landscape qs
+- Reworked lock screen ripple
+
+
 # 13.7 
 - Qpr3 here we come
 - The most feature rich version of spark with everything included in 13.6 and hella more
