@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.7-Official-zippo-20230831-gapps.zip",
-    "datetime": 1693479337,
-    "size": 1949797139,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-13.7-Official-zippo-20230831-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-08-31/Spark-13.7-Official-zippo-20230831-gapps.zip",
-    "filehash": "9f6d8e8afba29e226f442563ed4ebac3",
-    "id": "9f6d8e8afba29e226f442563ed4ebac3",
+    "filename": "Spark-13.8-Official-zippo-20230923-gapps.zip",
+    "datetime": 1695488070,
+    "size": 1961564742,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/zippo/Spark-13.8-Official-zippo-20230923-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-09-23/Spark-13.8-Official-zippo-20230923-gapps.zip",
+    "filehash": "5be5649e935d48f7e05e3bb14ea20f43",
+    "id": "5be5649e935d48f7e05e3bb14ea20f43",
     "maintainers": [
         {
             "main_maintainer": false,
