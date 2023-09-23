@@ -1,3 +1,10 @@
+# 23-Sep-2023
+- Update Powerhint 
+- Fix value for ro.hwui.render_ahead
+- Build Lineage Health HAL
+- Fixed camera crashes
+- Enable suspend to RAM (Improves standby)
+
 # 02-Sep-2023
 - Brought back vibration intensity control.
 - Brought back display feature of memory used by the app
