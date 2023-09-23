@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.7-Official-cepheus-20230901-gapps.zip",
-    "datetime": 1693584692,
-    "size": 2184801280,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.7-Official-cepheus-20230901-gapps.zip",
-    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.7-Official-cepheus-20230901-gapps.zip",
-    "filehash": "d84ea14071439d0dabb91f4f7f6c6343",
-    "id": "d84ea14071439d0dabb91f4f7f6c6343",
+    "filename": "Spark-13.8-Official-cepheus-20230923-gapps.zip",
+    "datetime": 1695472211,
+    "size": 2197205351,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.8-Official-cepheus-20230923-gapps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/sparkosofficial/files/cepheus/Spark-13.8-Official-cepheus-20230923-gapps.zip",
+    "filehash": "ff3e45dd45435eb5c254e21138ddb686",
+    "id": "ff3e45dd45435eb5c254e21138ddb686",
     "maintainers": [
         {
             "main_maintainer": false,
