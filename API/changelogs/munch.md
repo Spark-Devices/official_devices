@@ -1,3 +1,9 @@
+# 23-Sep-2023
+- Added pocket mode
+- Upreved audio Hal 
+- Enabled spatial audio
+- Switched to neutron clang
+
 # 29-Aug-2023
 - Tuned powerhint
 - Enabled charging control
