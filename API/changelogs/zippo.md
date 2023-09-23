@@ -1,3 +1,10 @@
+# 23-Sep-2023
+- Merge Linux v4.14.325 in kernel
+- Merge tag 13900 of audio-kernel from CLO
+- Add support for KernelSU (v0.6.8 )
+- Ship prebuilt textclassifier (fixes issues when selecting texts and copying to the clipboard)
+- Support fast charge toggle
+
 # 31-Aug-2023
 - Switch to kernel qcom-sm8150 from LOS
 - Upstream kernel to 4.14.323
