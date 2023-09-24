@@ -1,3 +1,8 @@
+# 24-Sep-2023
+- Kernel and Vendor base 14.0.2.0.TKCMIXM.
+- Fix fastbootd flash error.
+- Setup 6GB dalvik-heap configs.
+
 # 30-Aug-2023
 - Imported spatial audio lib from cheetah-tq3a.230605.012, you have to use compatible device in order to feel the difference.
 - Drop old non used stuff.
