@@ -1,3 +1,10 @@
+# 24-Sep-2023
+- Moved To OSS Kernel
+- Twrp Ramdisk Issue Fixed 
+- Fast Charging Issue Fixed 
+- Added /boot and /recovery mountpoint
+- Updated DT2W node & Sepolicy
+
 # 30-Aug-2023
 - Set preferred refresh rate on keyguard to 60
 - Use 60HZ refresh rate on Ambient display
