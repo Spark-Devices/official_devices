@@ -1,3 +1,10 @@
+# 25-Sep-2023
+- Moved To OSS Kernel
+- Twrp Ramdisk Issue Fixed 
+- Fast Charging Issue Fixed 
+- Added /boot and /recovery mountpoint
+- Updated DT2W node & Sepolicy
+
 # 24-Sep-2023
 - Moved To OSS Kernel
 - Twrp Ramdisk Issue Fixed 
