@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.6-OFFICIAL-RMX2020-20230603-gapps.zip",
-    "datetime": 1685820733,
-    "size": 1606193653,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX2020/Spark-13.6-OFFICIAL-RMX2020-20230603-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-06-05/Spark-13.6-OFFICIAL-RMX2020-20230603-gapps.zip",
-    "filehash": "93b644980405f613de68ddcdf4169a89",
-    "id": "93b644980405f613de68ddcdf4169a89",
+    "filename": "Spark-13.8-OFFICIAL-RMX2020-20230922-gapps.zip",
+    "datetime": 1695403433,
+    "size": 1884379020,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/RMX2020/Spark-13.8-OFFICIAL-RMX2020-20230922-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-09-25/Spark-13.8-OFFICIAL-RMX2020-20230922-gapps.zip",
+    "filehash": "98d2f5ed4b4d0d0bff201a4eda947bf1",
+    "id": "98d2f5ed4b4d0d0bff201a4eda947bf1",
     "maintainers": [
         {
             "main_maintainer": false,
