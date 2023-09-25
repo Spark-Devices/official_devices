@@ -1,3 +1,7 @@
+# 25-Sep-2023
+- Build lineage health HAL
+- Update Clang version to 17.0.4
+
 # 30-Aug-2023
 - Rebased tree
 - MiuiCamera Included
