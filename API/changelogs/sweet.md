@@ -1,3 +1,11 @@
+# 26-Sep-2023
+- switched into pref kernel 4.14.320
+- Update Adreno to Moto G84 (bangkk)
+- fix missing dolby
+- fix storage issue
+- add viper4android
+- leica default camera
+
 # 31-Aug-2023
 - Patch Agust
 - Kernel based vantoman 4.14.323
