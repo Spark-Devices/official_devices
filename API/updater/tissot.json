@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "Spark-13.7-Official-tissot-20230904-gapps.zip",
-    "datetime": 1693851389,
-    "size": 1250017384,
-    "url": "https://sourceforge.net/projects/sparkosofficial/files/tissot/Spark-13.7-Official-tissot-20230904-gapps.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-09-04/Spark-13.7-Official-tissot-20230904-gapps.zip",
-    "filehash": "16ef876ad725b2eef0222a74d38706f4",
-    "id": "16ef876ad725b2eef0222a74d38706f4",
+    "filename": "Spark-13.8-Official-tissot-20230924-gapps.zip",
+    "datetime": 1695564783,
+    "size": 1259746327,
+    "url": "https://sourceforge.net/projects/sparkosofficial/files/tissot/Spark-13.8-Official-tissot-20230924-gapps.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/SparkOS-releases-public/releases/download/2023-09-26/Spark-13.8-Official-tissot-20230924-gapps.zip",
+    "filehash": "db8a1518bcdfd389b04bfcdd81202a72",
+    "id": "db8a1518bcdfd389b04bfcdd81202a72",
     "maintainers": [
         {
             "main_maintainer": false,
