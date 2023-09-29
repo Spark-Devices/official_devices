@@ -1,3 +1,8 @@
+# 29-Sep-2023
+- Fixed occasional notification sync & internet connectivity issues on Google Play Store, Google Play Services and its components
+- Misc. fixes and optimizations
+- NB: Dirty flashable over 13.7 build otherwise clean flash is mandatory
+
 # 31-Aug-2023
 - Added lineage charging control
 - Some minor fixes and improvements
