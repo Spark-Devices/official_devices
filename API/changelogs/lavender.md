@@ -1,3 +1,30 @@
+# 04-Oct-2023
+- Fixed USB Tethering
+- Set swappiness from kernel side
+- Remove zram cold page writeback file
+- Write 0 for zs_handle and zspage when configuring zram
+- Enable ZRAM deduplication feature
+- Decreased zram to a fixed-size of 2gb
+- Properly label /sys/kernel/qvr_external_sensor/fd
+- Fix adm buffering size
+- Update CarrierConfig from LA.UM.10.2.1.r1-04000-sdm660.0
+- Import QTI datastatusnotification from FP3
+- Remove duplicate SIP+VoIP permission
+- Decrease battery charging temperature thresholds
+- Set userspace lmkd properties
+- Satisfy EPPE enforcement
+- Force pre-5.10 devices to treat 170M as sRGB in SF
+- Extend buffer size to 256kb for offload playback
+- Add DPM props
+- Compact cached app heaps in the background
+- Remove activity_recognition libs
+- vmscan: Go back to default swapiness level´s
+- ion: Limit concurrency of workqueues freeing buffers asynchronously
+- defconfig: Enable powersave and userspace cpufreq governor
+- defcongif: Disable slmk and enable userspace lmk
+- Revert "block: remove legacy IO schedulers"
+- defconfig: Enable CFQ Group Scheduling support
+
 # 31-Aug-2023
 - Bring up changes for kernel 4.19
 - Adress denial's needed on 4.19
