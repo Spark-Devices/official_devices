@@ -1,3 +1,8 @@
+# 04-Oct-2023
+-Drop use phase offset as duration
+-add missing thermal config 
+-show refresh rate qs tile
+
 # 03-Sep-2023
 - Clean Flash required 
 - compiled kernel with neutron-clang 17
